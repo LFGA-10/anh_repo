@@ -1,0 +1,59 @@
+the amount of target present.
+
+(10marks)
+
+Virology is a study of virus. Answer to the following questions related to the viruses:
+
+List any 3 criteria on which base the classification of the viruses?
+
+Differentiate a Monopartite genome from a Multipartite genome in terms of their nucleic acid?
+
+Highlight any 5 (two) steps of lytic replication cycle for the viruses.
+
+Answer:
+
+The 3 criteria are the MORPHOLOGY, CHEMICAL COMPOSITION and MODE OF REPLICATION.
+
+In a Monopartite genome the entire genome occupies one nucleic acid molecule while in Multipartite it occupies several nucleic acid segments.
+
+The lytic cycle includes 5 steps: (each carries 2 marks)
+
+Attachment of virus to susceptible host cell
+
+Entry of virus nucleic acid into host cell
+
+Replication of viral nucleic acid
+
+Assembly of new viruses
+
+Release of new viruses from a lysed host cell.
+
+(15marks)
+
+Briefly describe the following information find on the drug notice:
+
+Expiration date
+
+B. Side effects
+
+Withdrawal time
+
+Trade name
+
+Antidote.
+
+Answers:
+
+Expiration date: It is the date on after which a product expires and should not be used.
+
+ side effects: abnormal changes in the body following drug administration.
+
+ Withdrawal time: the period of time from when a drug is administered to when the drug concentration falls below the tolerance.
+
+ trade name: name provided by the company and can’t be reused by another company for the commercial purposes.
+
+ antidote: a medicine taken or given to counteract a particular poison.
+
+(15marks)
+
+	____________END OF ASSESSMENT_____________

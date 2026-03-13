@@ -1,0 +1,19 @@
+ect life cycles. Thus, the general form of the direct coccidian life cycle is represented by the genus Eimeria, species of which include gastrointestinal parasites of a wide range of vertebrate hosts.
+
+Figure 10: Eimeria magna oocysts, sporulated, from the feces of a domestic rabbit.
+
+Figure 11:Life cycle of a typical Eimeria species.
+
+1.2.4 Piroplasmidia
+
+The Piroplasmorida are apicomplexan parasites that are transmitted by feeding ixodid ticks. In this case, sexual conjugation takes place within the stomach of the tick, and sporozoites are generated within the salivary glands. Stages in the vertebrate host include meronts, merozoites, and gamonts.
+
+1.2.4.1 Babesia
+
+Babesia species are apicomplexan parasites of the erythrocytes of their vertebrate hosts; the erythrocyte is the only vertebrate host cell infected. Typically, Babesia stages that are seen in red blood cells are large compared with the Theileria species, which occur in the same host, but unfortunately, there are exceptions. For members of the genus Babesia, sexual conjugation occurs within the intestinal lumen of the tick, and sporogony occurs within the epithelium of the tick’s intestinal wall.
+
+Figure 12: Babesia bigemina in Giemsa-stained blood film from a cow
+
+1.2.4.2 Theileria
+
+The genus Theileria differs from Babesia in that schizonts occur in lymphocytes and induce the infected lymphocytes to undergo division and proliferation. Also, typically no transovarial transmission occurs in the case of ticks infected with Theileria species.

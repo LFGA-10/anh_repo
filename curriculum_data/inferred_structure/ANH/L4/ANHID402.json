@@ -1,0 +1,91 @@
+{
+  "trade_id": "ANH",
+  "level_id": "L4",
+  "module_id": "ANHID402",
+  "generated_at": "2026-03-13T09:26:07Z",
+  "source": {
+    "type": "inferred_from_vector_chunks",
+    "note": "This outline is automatically inferred from notes/supplementary/exams. It is NOT an official curriculum structure.",
+    "samples_used": [
+      {
+        "from": "past_exam/infectious_examination_metadata.json",
+        "chars": 5220
+      },
+      {
+        "from": "past_exam/mg_infectious_diseases_metadata.json",
+        "chars": 5170
+      }
+    ]
+  },
+  "inferred": {
+    "headings": [
+      "INFECTIOUS DISEASES",
+      "TECHNICAL SECONDARY SCHOOLS (TSS)",
+      "FIRST TERM: 2025-2026",
+      "SCHOOL EXAMINATION 2025-2026",
+      "SECTOR: AGRICULTURE AND FOOD PROCESSING",
+      "TRADE NAME: ANIMAL HEALTH",
+      "RQF LEVEL: IV",
+      "MARKS: ……………………………….100 MARKS",
+      "DURATION: 3 HOURS",
+      "INSTRUCTIONS TO CANDIDATES:",
+      "in Three Sections (A, B, C). Follow the instructions given below, and",
+      "answer the indicated questions in each section for a total of 100marks",
+      "Allowed materials: Pen, ruler, calculator and pencil",
+      "SECTION A: Attempt all questions (55 marks)",
+      "C. Hard swollen tongue",
+      "D. Blood oozing from natural body openings",
+      "C. Ingestion of infected materials",
+      "B. Intradermal tuberculin test",
+      "A. Clear nasal discharge",
+      "B. Blue discoloration of tongue",
+      "D. Painful swelling filled with pus",
+      "C. Subcutaneous pyogranulomatous lesions",
+      "D. Necrotic liver lesions",
+      "Answer True or False",
+      "1. Foot rot is a contagious bacterial infection that usually affects the area between the two toes.",
+      "2. Fusobacterium necrophorum is one of the main causes of foot rot in cattle.",
+      "3. Dichelobacter nodosus is primarily involved in causing foot rot in sheep.",
+      "4. Foot rot typically starts with swelling between the claws about 24 hours after infection.",
+      "5. Animals with foot rot often walk normally and show no signs of pain.",
+      "6. A foul odor from the hoof is a common sign of foot rot.",
+      "7. Diagnosis of foot rot usually requires advanced laboratory testing and cannot be done using clinical signs alone.",
+      "8. Keeping animals in a dry environment helps in both treatment and prevention of foot rot.",
+      "9. Vaccination against foot rot provides strong, long-term immunity.",
+      "A. Severe fever and weight loss",
+      "B. Painless swelling of the jaw",
+      "C. Rapid necrosis of soft tissues",
+      "D. Enlarged regional lymph nodes",
+      "Section B: Attempt any three (3) questions (30 marks)",
+      "Section C: Attempt only one (1) question (15 marks)",
+      "Why should the carcass not be opened?",
+      "2. True",
+      "3. True",
+      "4. True",
+      "5. False",
+      "8. True"
+    ],
+    "keywords": [
+      "marks",
+      "answer",
+      "foot",
+      "questions",
+      "section",
+      "diseases",
+      "test",
+      "infectious",
+      "causing",
+      "brucellosis",
+      "swelling",
+      "bacteria",
+      "tuberculosis",
+      "caused",
+      "lesions",
+      "true",
+      "clostridium",
+      "animals",
+      "fusobacterium",
+      "necrophorum"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+tle
+1. Measure the length of body, from the point-of-shoulder (A)to the point-of-rump or pin
+bone (B).
+2. Measure the circumference or heart girth (C). Measure from a point slightly behind the
+shoulder blade, down the fore-ribs and under the body behind the elbow all the way around.
+After these measurements are made in inches – use the following formula.
+3. (Heart girth X heart girth X body length) ÷ 300 = weight in
+pounds.
+Example:
+Heart girth (76”) X heart girth (76”) X body length (66”)
+50
+
+divided by 300 = 1,270 pounds.
+76 X 76 = 5,776
+5,776 X 66 = 381,216
+381,216 divided by 300 = 1,270 pounds
+In short the animal body is obtained by using two methods:
+➢ Direct methods
+➢ Indirect methods
+INDIRECT METHOD
+Is an estimation of body weight of animal by using thoracic circumference and formulaes
+1. Crevat formula
+Live weight=80×C3
+C is the thoracic circumference
+80 is cravat coefficient
+The cravat coefficient varies according to the animal stages
+Animal stage Cravat coefficient
+Calf 100
+Young cattle 90
+Thin cattle 85
+Normal cattle 80
+Fat cattle 72
+51

@@ -1,0 +1,21 @@
+us
+and this decreases occurrences of the behavior in the future.
+ Negative punishment occurs when a behavior is followed by the removal of a stimulus and
+occurrences of the behavior decrease in the future.
+Behavior analysts emphasize the following consideration:
+ use of positive reinforcement for increasing desirable behaviors and
+ Use negative punishment for decreasing undesirable behaviors.
+If punishment is going to be used to decrease an undesirable behavior, the animal must be able to
+receive positive reinforcement for an alternative behavior.
+Establishing new behaviors
+Reinforcement should be delivered on a predetermined schedule. A schedule of reinforcement specifies
+whether each response is reinforced or only some responses.
+Schedules of reinforcement include variable ratio, fixed ratio, variable interval, and fixed interval:
+ In a fixed ratio schedule, a specific number of responses occur before a reinforcer is delivered,
+ In a variable ratio schedule, reinforcer delivery occurs after a set number of responses, but that
+number varies around an average number,
+ In a fixed interval schedule, the first response that is emitted after a set time has elapsed
+(forgotten) is reinforced,
+ In a variable interval schedule, the first response that is emitted after a set but variable amount of
+time has elapsed is reinforced.
+Page 75 of 134

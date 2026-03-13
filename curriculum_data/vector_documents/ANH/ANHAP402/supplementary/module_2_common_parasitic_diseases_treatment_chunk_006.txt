@@ -1,0 +1,19 @@
+types: platy-helminthes for flat-worms and nemathelminthes for round-worms. All helminthes are multicellular eukaryotic invertebrates with tube-like or flattened bodies exhibiting bilateral symmetry.
+
+They are triploblastic (with endo-, meso- and ecto-dermal tissues) but the flatworms are acoelomate (do not have body cavities) while the roundworms are pseudocoelomate (with body cavities not enclosed by mesoderm). In contrast, segmented annelids (such as earthworms) are coelomate (with body cavities enclosed by mesoderm). The higher taxa (phylums) containing helminthes of veterinary importance are:
+
+Nemathelminthes (roundworms)
+
+Plathelminthes (flatworms)
+
+Acanthocephalan (thornyheaded worms)
+
+1.1.1Phylum nemathelminthes (Nematodes)
+
+Nematodes (roundworms) have long thin unsegmented tube-like bodies with anterior mouths and longitudinal digestive tracts. They have a fluid-filled internal body cavity (pseudocoelum) which acts as a hydrostatic skeleton providing rigidity (so-called ‘tubes under pressure’). Worms use longitudinal muscles to produce a sideways thrashing motion. Adult worms form separate sexes with well-developed reproductive systems.
+
+Figure 1: Common round worm (Ascaris lumbricoides)
+
+Basic life cycle of nematodes
+
+During development, a nematode moults at intervals shedding its cuticle. In the complete life cycle there are four moults, the successive larval stages being designed as L1, L2, L3, L4 and L5 which is immature adult.Some development stages usually take place in the faecal part or in different species of animal, the intermediate host (I. H.), before the infection can take place.

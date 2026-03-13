@@ -1,0 +1,117 @@
+ble
+
+pH < 4
+
+✅ Answers: 1-a (pH ≥ 4.5), 2-c (pH < 4), 3-b (pH ≥ 5)
+
+6. Ordering (3 marks)
+
+Arrange the steps of silage making in the correct order:
+
+Cover the silo
+
+Chop the forage
+
+Harvest the fodder
+
+Add molasses
+
+Compact the forage
+
+Wilt the fodder
+
+✅ Correct order: Harvest → Wilt → Chop → Add molasses → Compact → Cover
+
+7. Open-ended – Calculation (3 marks)
+
+Calculate the volume of silo needed if:
+
+Number of cows (Nc) = 10
+
+Daily ration (Rd) = 25 kg
+
+Feeding days (Df) = 180
+
+Weight of silage per m³ (W) = 650 kg
+
+✅ Answer:
+
+Section C: Evaluating & Creating (8 marks)
+
+8. Open-ended – Scenario-based (4 marks)
+
+A farmer’s silage smells like vinegar and has a dark green color. What likely went wrong during silage making, and how could it be prevented?
+
+✅ Answer:
+
+Problem: Acetic fermentation occurred due to poor compaction, excess oxygen, or high moisture.
+
+Prevention: Ensure wilting to 30–35% DM, chop to 2–4 cm, compact thoroughly, and seal airtight to maintain anaerobic conditions.
+
+9. Open-ended – Comparison (4 marks)
+
+Compare the advantages and disadvantages of a pit silo and a tube silo.
+
+✅ Answer:
+
+Pit silo:
+Advantages: Low cost, good compaction, good silage quality.
+Disadvantages: Difficult to unload, risk of water seepage.
+
+Tube silo:
+Advantages: Airtight, portable, easy to manage portions, reduces spoilage.
+Disadvantages: Higher initial cost, requires special bags, not suitable for very large quantities.
+
+Marking Scheme:
+
+Section
+
+Question
+
+Marks
+
+A
+
+1
+
+4
+
+2
+
+4
+
+3
+
+2
+
+4
+
+2
+
+B
+
+5
+
+4
+
+6
+
+3
+
+7
+
+3
+
+C
+
+8
+
+4
+
+9
+
+4
+
+Total
+
+30

@@ -1,0 +1,68 @@
+ATCHING QUESTIONS (10 × 1 Mark = 10 Marks)
+31-35: Restraining techniques
+31 → C
+•
+32 → D
+•
+33 → B
+•
+34 → A
+•
+35 → E
+•
+36-40: Diseases with causative agents
+36 → G
+•
+37 → I
+•
+38 → F
+•
+39 → H
+•
+40 → J
+•
+
+SECTION B: SUBJECTIVE QUESTIONS (60 Marks)
+PART 4: SHORT ANSWER QUESTIONS (6 × 5 Marks = 30 Marks)
+41. (Applying) Anamnesis information for chickens with
+nervous signs (5 marks)
+Distribution of marks:
+1 mark for each correct piece of information with explanation
+•
+(5 pieces × 1 mark)
+Expected answers:
+Information Importance
+1. Number of birds affected Determines morbidity/mortality rate; helps assess
+and dead disease severity
+Newcastle Disease more severe in young birds;
+2. Age of affected birds
+Marek's affects specific ages
+Determines if disease could occur despite
+3. Vaccination history
+vaccination; identifies vaccine failures
+4. Onset and progression Helps determine incubation period and disease
+of signs course (acute vs chronic)
+
+Information Importance
+5. Recent introductions or Identifies potential source of infection; biosecurity
+visitor history breaches
+Assesses general health status; dehydration
+6. Feed and water intake
+common in sick birds
+*(Any 5 correct with explanation = 5 marks)*
+Likely disease suspicion: Newcastle Disease (paramyxovirus)
+based on respiratory and nervous signs including twisted necks
+(torticollis).
+42. (Applying) Ivermectin dosage calculation (5 marks)
+Distribution of marks:
+Correct formula: 1 mark
+•
+Correct substitution: 1 mark
+•
+Correct calculation: 2 marks
+•
+Correct units and route: 1 mark
+•
+Working:
+Volume (mL) = (Animal weight × Dose) ÷ Concentration
+= (35 kg × 0.2 mg/kg) ÷ 10 mg/mL

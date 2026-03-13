@@ -1,0 +1,69 @@
+he species of trypanosome involved. The clinical signs include the followings:
+
+The incubation period is usually 1–4 weeks.
+
+The primary clinical signs are intermittent fever, anemia, and weight loss.
+
+Cattle usually have a chronic course with high mortality, especially if there is poor nutrition or other stress factors.
+
+Ruminants may gradually recover if the number of infected tsetse flies is low; however, stress results in relapse.
+
+Lesions
+
+Necropsy findings vary and are nonspecific.
+
+In acute, fatal cases, extensive petechiation of the serosal membranes, especially in the peritoneal cavity, may occur.
+
+Also, the lymph nodes and spleen are usually swollen. In chronic cases, swollen lymph nodes, serous atrophy of fat, and anemia are seen.
+
+Diagnosis
+
+A presumptive diagnosis is based on finding an anemic animal in poor condition in an endemic area. Confirmation depends on demonstrating trypanosomes in stained blood smears or wet mounts. Other infections that cause anemia and weight loss, such as babesiosis, anaplasmosis, and haemonchosis, should be ruled out by examining a stained blood smear.
+
+Figure 46: Trypanosoma vivax, bovine blood smear
+
+Treatment and Control
+
+Several drugs can be used for treatment. Drug resistance occurs and should be considered in refractory cases.
+
+Drugs
+
+Animal
+
+Trypanosome
+
+Main action
+
+Diminazene aceturate
+
+Cattle
+
+vivax, congolense, brucei
+
+Curative
+
+Homidium bromide
+
+Cattle, equids
+
+vivax, congolense, brucei
+
+Curative,some prophylactic activity
+
+Isometamidium chloride
+
+Cattle
+
+vivax, congolense
+
+Curative and prophylactic
+
+Quinapyramine sulfate
+
+Horses, camels, pigs, dogs
+
+vivax, congolense, brucei, evansi, equiperdum, simiae
+
+Curative
+
+Table 5: Drugs commonly used for Trypanosomiasis in domestic animals

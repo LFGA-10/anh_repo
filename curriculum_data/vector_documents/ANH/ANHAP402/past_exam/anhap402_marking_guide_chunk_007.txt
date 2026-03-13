@@ -1,0 +1,29 @@
+solution: concentration of solute outside cell > concentration inside cell → cell
+
+	Shrinks.
+
+	In a hypotonic solution: concentration of solute outside cell < concentration inside cell → cell swells.
+
+20. Discuss clearly about the 5 main cells of the bone with a precision on their roles during the process of bone tissue management? /10 Marks
+
+Osteoblasts: bone forming cells synthesize and secrete un-mineralized ground substance and are found in areas of high metabolism within the bone.
+
+Osteocytes: mature bone cells made from osteoblasts that have made bone tissue around themselves. They maintain healthy bone tissue by secreting enzymes and controlling the bone mineral content; they also control the calcium release from the bone tissue to the blood.
+
+Osteogenic cells: respond to traumas, such as fractures, by giving rise to bone-forming cells and bone destroying cells.
+
+Osteoclasts: bone absorbing cell – large cells that break down bone tissue – important to growth, healing, remodeling.
+
+Bone lining cells: made from osteoblasts along the surface of most bones in an adult. Bone-lining cells are thought to regulate the movement of calcium and phosphate into and out of the bone.
+
+21. Phagocytes are the cells involved as defensive cells of the organism. Explain briefly the role of the cells listed below: /10 Marks
+
+Mast cells: dilate blood vessels and induce inflammation. They also recruit Macrophages and Neutrophils.
+
+Natural killers: they kill tumor cells and virus infected cells.
+
+Dendritic cells: Presents antigen on its surface thereby triggering an adaptive defense.
+
+Monocyte: They differentiate into Macrophages and Dendritic cells in response to inflammation.
+
+Eosinophils: releases toxins that kills bacteria and parasites but also cause tissue damage.

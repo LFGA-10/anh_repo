@@ -1,0 +1,15 @@
+t animal?
+Answer: Ruminants have a pre-gastric fermentation chamber (the rumen) containing microbes that can break down fibrous materials like cellulose, which non-ruminants lack.
+
+Level 5: Evaluating
+
+Essay Question
+Evaluate the selection criteria for both fodder harvesting materials and fodder conservation materials. Which set of criteria do you believe is more critical for the overall success and economic sustainability of a small-scale fodder conservation operation? Justify your argument with specific examples from the provided documents.
+
+Sample Answer Guide:
+
+Harvesting Criteria: Mention time (growth stage), technique, cost, availability, hygiene, and safety. Emphasize that incorrect harvest time (e.g., harvesting too late) irrevocably lowers the potential quality of the conserved fodder.
+
+Conservation Criteria: Mention method, size, cost, availability, and efficiency. Argue that even perfectly harvested fodder can be ruined by poor conservation (e.g., using torn plastic for silage, leading to spoilage).
+
+Evaluation: A strong argument could be made for harvesting criteria being more critical because they determine the inherent potential quality of the feed. For example, harvesting legumes at the wrong stage cannot be fixed later. However, an equally strong argument can be made for conservation criteria because they determine whether that potential is realized and preserved. Inefficient or incorrect conservation leads to massive losses, negating all the effort and cost of proper harvesting.

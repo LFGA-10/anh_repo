@@ -1,0 +1,34 @@
+[
+  {
+    "chunk_filename": "formative_assessment_lo1_lo2_chunk_001.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "ANHCF302",
+    "module_name": "Fodder crop conservation",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "FORMATIVE ASSESSMENT LO1&LO2.docx",
+    "source_relpath": "ANHCF302-Fodder crop conservation/Question_Bank/FORMATIVE ASSESSMENT LO1&LO2.docx",
+    "ingested_at": "2026-03-13T08:12:55Z"
+  },
+  {
+    "chunk_filename": "formative_assessment_lo1_lo2_chunk_002.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "ANHCF302",
+    "module_name": "Fodder crop conservation",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "FORMATIVE ASSESSMENT LO1&LO2.docx",
+    "source_relpath": "ANHCF302-Fodder crop conservation/Question_Bank/FORMATIVE ASSESSMENT LO1&LO2.docx",
+    "ingested_at": "2026-03-13T08:12:55Z"
+  }
+]

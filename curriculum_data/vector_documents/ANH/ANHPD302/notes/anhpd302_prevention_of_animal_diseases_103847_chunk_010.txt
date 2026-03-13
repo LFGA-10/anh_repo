@@ -1,0 +1,32 @@
+Measurement)
+• Purpose: Measures wind speed or airflow within ventilation systems or open-air
+enclosures.
+• Use: Primarily used to monitor the effectiveness of ventilation systems, ensuring proper
+air circulation and preventing the buildup of harmful gases.
+• Importance: Proper airflow is critical to maintaining air quality and temperature
+regulation.
+4. Pluviometer/Rain Gauge (Rainfall Measurement)
+• Purpose: Measures the amount of rainfall in outdoor enclosures or during field studies.
+• Use: Positioned outside to monitor rainfall levels and patterns, which can impact outdoor
+animal habitats or research conditions.
+• Importance: Monitoring rainfall helps in planning for enclosure management, drainage,
+and understanding environmental changes affecting animal welfare.
+5. Barometer (Air Pressure Measurement)
+2
+
+• Purpose: Measures atmospheric pressure, which can affect animal behavior and physical
+conditions.
+• Use: Installed in the animal facility to detect changes in air pressure that could influence
+animal physiology or behavior.
+• Importance: Sudden changes in air pressure can cause discomfort or stress in some
+animals, particularly those sensitive to atmospheric conditions.
+6. Digital Oxygen Analyzer (Oxygen Level Monitoring)
+• Purpose: Measures the concentration of oxygen in the air.
+• Use: Often used in controlled environments such as sealed chambers or rooms where
+animals may be housed in lower-oxygen environments.
+• Importance: Ensuring adequate oxygen levels is vital for preventing hypoxia and
+ensuring proper respiratory function.
+7. Digital Ammonia Meter (Ammonia Level Monitoring)
+• Purpose: Detects and measures the concentration of ammonia in the environment,
+typically caused by animal waste.
+• Use: Used in areas where high concentrations of animal waste are

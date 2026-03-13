@@ -1,0 +1,100 @@
+of marks:
+Vaccination schedule structure: 2 marks
+•
+Cattle vaccines: 2 marks
+•
+Sheep/goat vaccines: 2 marks
+•
+Poultry vaccines: 2 marks
+•
+Vaccine storage/handling: 2 marks
+•
+Expected answer structure:
+
+COMPREHENSIVE VACCINATION PROGRAM FOR MIXED FARM
+Age/Ti Vaccine Boo
+Species Disease Route
+ming Type ster
+CATTLE
+Calves
+(3-4 Black Killed Annu
+SC
+month Quarter bacterin al
+s)
+Calves
+Live
+(4-8 Brucellosi Once
+(Strain SC
+month s (females) only
+19/RB51)
+s)
+Heifers
+IBR, PI3,
+(pre- Modified Annu
+BVD, SC/IM
+breedi live al
+BRSV
+ng)
+Annua
+Foot and 6-12
+l Killed
+Mouth SC mont
+(Feb/D polyvalent
+Disease hs
+ec)
+
+Age/Ti Vaccine Boo
+Species Disease Route
+ming Type ster
+Annua
+Spore Annu
+l (May- Anthrax SC
+vaccine al
+June)
+Hemorrha
+Annua gic Annu
+Killed SC
+l Septicemi al
+a
+SHEEP/
+GOATS
+Lambs
+/kids
+Enterotox Toxoid/C Annu
+(2-3 SC
+emia D-T al
+month
+s)
+Peste des
+Live Every
+Annua Petits
+attenuate SC 3
+l Ruminant
+d years
+s (PPR)
+
+Age/Ti Vaccine Boo
+Species Disease Route
+ming Type ster
+Contagiou
+Annua s Caprine Annu
+Killed SC
+l Pleuropne al
+umonia
+Annua Spore Annu
+Anthrax SC
+l vaccine al
+POULTR
+Y
+Live (cell-
+Day 1- Marek's SC/In
+associated Once
+4 Disease ovo
+)
+Newcastle
+Eye
+Day 1- Disease Live 2-3
+drop/
+4 (B1 lentogenic weeks
+spray
+strain)

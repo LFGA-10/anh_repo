@@ -1,0 +1,82 @@
+{
+  "trade_id": "ANH",
+  "trade_name": "Animal Health",
+  "level_id": "L5",
+  "academic_year": "2025-2026",
+  "level_description": "TODO: brief description of Animal Health Level 5.",
+  "modules": [
+    {
+      "module_id": "ANHAI503",
+      "module_name": "Artificial Insemination",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHBK503",
+      "module_name": "Beekeeping operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHCF503",
+      "module_name": "Conduct fish farming operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHCA503",
+      "module_name": "Companion animal management",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHFM501",
+      "module_name": "Operating Farm machinery",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHMS503",
+      "module_name": "Major surgery",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHNE503",
+      "module_name": "Necropsy evaluations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHQC503",
+      "module_name": "Quality control of raw animal products",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHVE503",
+      "module_name": "Veterinary ethics and jurispuridence",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    }
+  ]
+}
+

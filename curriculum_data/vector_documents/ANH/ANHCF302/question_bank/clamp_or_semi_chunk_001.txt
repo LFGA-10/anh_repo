@@ -1,0 +1,39 @@
+📐 Clamp or SemiUnderground Silo
+
+Formula:
+
+Question: A clamp silo has a length of 10 m, width of 6 m, and height of 4 m. What is its volume?
+
+Answer:
+
+✅ The volume is 120 cubic meters.
+
+🌾 Surface Silo
+
+Formula:
+
+Question: A surface silo measures 12 m long, 5 m wide, and 3 m high. Find its volume.
+
+Answer:
+
+✅ The volume is 180 cubic meters.
+
+🕳️ Pit Silo (Cylindrical)
+
+Formula:
+
+Question: A pit silo has a diameter of 8 m and a depth (height) of 5 m. What is its volume?
+
+Answer:
+
+Approximating with :
+
+✅ The volume is about 251.2 cubic meters.
+
+✨ Quick Recap
+
+Clamp silo → divide by 2 because of its triangular crosssection.
+
+Surface silo → straightforward rectangular prism.
+
+Pit silo → cylindrical, so formula uses and diameter squared.

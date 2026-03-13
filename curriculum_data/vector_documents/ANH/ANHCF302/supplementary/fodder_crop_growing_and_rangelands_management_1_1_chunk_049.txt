@@ -1,0 +1,129 @@
+ng unit 3: Improve nutritive value of crops residues and straws
+
+Crop residues are produced in crop farming systems. Most of them are normally left as waste or as mulch in the field or they are burnt.
+
+Crop residues have common characteristics:
+
+Poor palatability
+
+Low in crude protein (mostly below 6%)
+
+High in cellulose and other structural carbohydrates (crude fiber)
+
+Low digestibility
+
+Low in calcium and phosphorus
+
+3.1 Use crops residues
+
+Crop residues can be used for feeding dairy cattle but cannot supply adequate nutrients without supplementation. Because of their low digestibility they remain in the rumen for a long time, limiting intake. The other major limitation is they do not contain enough crude protein to support adequate microbial activity in the rumen. It is therefore advisable to feed them with a true protein source (as opposed to a non-protein source, e.g. urea) such as fodder legumes or commercial supplements such as cottonseed cake.
+
+Crop residues should not be fed in large amounts to growing animals. If used, they should make up no more than 25% of the diet with the remainder comprising high quality feeds.
+
+Table9. Common crop residues
+
+Cereals
+
+Legumes
+
+Others
+
+Maize stoves
+
+Beans haulms
+
+Banana pseudo steam
+
+Sorghum stove
+
+Soya beans haulms
+
+Banana peelings
+
+Barley straws
+
+Groundnut haulms
+
+Potato vines
+
+Wheat straws
+
+Cowpea haulms
+
+Stripped maize leaves
+
+Rice straws
+
+Pigeon pea husks
+
+Sugar cane tops
+
+Finger millet straws
+
+Vegetables wastes
+
+Cassava leaves
+
+Potato peelings
+
+Table10. Feeding values of some crop residues/kg of fresh matter
+
+FEEDS
+
+DM%
+
+FU
+
+DCP
+
+Ca(g)
+
+P(g)
+
+Peanut leaf stalks
+
+90
+
+0.57
+
+60
+
+9
+
+1.5
+
+Bean leaf stalks
+
+90
+
+0.64
+
+124
+
+2.2
+
+0.12
+
+Sorghum straws
+
+89
+
+0.60
+
+4
+
+2.4
+
+0.4
+
+Peas leafs stocks
+
+86
+
+0.60
+
+120
+
+2.2
+
+0.10

@@ -1,0 +1,18 @@
+[
+  {
+    "chunk_filename": "which_of_the_following_statements_is_correct_regarding_the_size_differences_between_male_and_female_dogs_chunk_001.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "AHNRF302",
+    "module_name": "Ruminant farming",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "Which of the following statements is correct regarding the size differences between male and female dogs.docx",
+    "source_relpath": "AHNRF302-Ruminant farming/Question_Bank/Which of the following statements is correct regarding the size differences between male and female dogs.docx",
+    "ingested_at": "2026-03-13T07:47:17Z"
+  }
+]

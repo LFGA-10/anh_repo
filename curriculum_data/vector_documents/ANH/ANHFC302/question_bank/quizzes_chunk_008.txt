@@ -1,0 +1,36 @@
+legume
+seeds, mixed with fertilizer like TSP/SSP. (1 mark)
+▪ Finally, remove livestock to allow the new species to
+establish. (1 mark)
+Section 2: Long Answer/Essay Questions (Evaluating and
+Creating)
+
+Instructions: Answer the following questions in detail,
+demonstrating a comprehensive understanding of the topic.
+Level: Evaluating
+5. Question: A farmer with 50 heads of cattle and a 50-hectare
+pasture wants to transition from continuous grazing to a
+rotational grazing system. Critically evaluate the advantages of
+this change. Using the formulas provided in the module,
+calculate the number of paddocks needed if the desired rest
+period is 30 days, the grazing period is 6 days, and the farmer
+plans to have 2 animal groups. Then, advise the farmer on
+how to determine the size of each paddock.
+Marking Guide (Total: 15 marks)
+o Evaluation of Advantages (5 marks):
+▪ Prevents overgrazing and allows for pasture
+regrowth, leading to higher and more sustained
+productivity. (1 mark)
+▪ Helps control internal parasites by breaking their
+life cycle during the rest period. (1 mark)
+▪ Prevents loss of soil through erosion by maintaining
+better ground cover. (1 mark)
+▪ Allows for more uniform grazing, reducing selective
+grazing and waste. (1 mark)
+▪ Enables better matching of forage supply to animal
+demand. (1 mark)
+o Calculation of Paddock Number (5 marks):
+▪ Formula: Paddock number = (Rest period / Grazing
+period) + Number of animal groups. (2 marks)
+▪ Calculation: (30 days / 6 days) + 2 = 5 + 2 = 7
+paddocks. (3 marks)

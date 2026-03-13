@@ -1,0 +1,80 @@
+A clamp silo is the cheapest and easiest to construct, but it does not allow for good pressing.
+ Incorrect — While it is cheap and easy to make, it does allow for good pressing when properly managed.
+
+C. A surface silo is made by digging a 2-meter-deep pit and filling it with grass, then stamping it down.
+ Incorrect — A surface silo is made on the ground surface, not by digging a pit.
+
+D. A clamp silo is made with three concrete walls, a concrete base, and is suitable for storing large quantities of fodder.
+Correct — This is the accurate description of a clamp silo.
+
+3 marks
+
+5.
+
+You are planning to ensile forage for 10 dairy cows. Each cow requires 15 kg of silage per day for 120 feeding days.
+
+The average weight of silage is 600 kg/m³.
+
+What volume of silo do you need?
+
+30 m³
+
+45 m³
+
+60 m³
+
+D.75 m³
+
+ANSWER :
+
+Step 1: Find total silage required
+
+Total silage= Number of cows×Feed per day×Number of days
+
+= 10×15×120= 18,000 kg of silage
+
+Step 2: Convert kg to cubic meters
+
+= 18000/600= 30m3
+
+the answer is A.
+
+5 marks
+
+6.
+
+The number of cuttings required to plant Pennisetum depends on the planting method and spacing. If the recommended spacing is 1 meter between rows and 0.5 meters between plants, how many plants will be required for a plot of 1 hectare ?
+
+10,000 plants
+
+20,000 plants
+
+2,000 plants
+
+D.40,000 plants
+
+ANSWER
+
+Given:
+
+Spacing between rows = 1 meter
+
+Spacing between plants = 0.5 meter
+
+Plot size = 1 hectare = 10,000 m²
+
+Step 1: Find the area occupied by one plant
+
+Step 1: Find the area occupied by one plant
+
+Area per plant= 1m*0.5m= 0.5m2
+
+Step 2: Find number of plants per hectare
+
+ = 10,000/0.5= 20,000 plants
+
+So the answer is C.
+
+3 marks
+
+7.

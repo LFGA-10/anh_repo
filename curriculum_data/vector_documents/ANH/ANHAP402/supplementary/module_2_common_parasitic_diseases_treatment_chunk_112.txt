@@ -1,0 +1,35 @@
+o three main groups: insecticides drugs, anthelmintic drugs and antiprotozoal drugs, although not every drug fits nicely into just one of these sections.
+
+Selection criteria of the drug or parasiticid
+
+The selection criteria of the parasiticid depends on the followings: animal species, breeds, physiological status, parasite species, diseases, age, treatment, value of animals, presentation of medicine, side effects, availability, financial resources of animal owner.
+
+Properties of anthelmintic compounds
+
+An ideal anthelmintic should possess the following properties:
+
+It should be efficient against all parasitic stages of a particular species: it is also generally desirable that the spectrum of activity should include members of different genera.
+
+It should be non-toxic to the host: or at least have a wide safety margin. This is important in the treatment of groups of animals such as a flock of sheep, where individual body weights cannot easily be determined, rather than in the dosing of individual companion animals.
+
+It should be rapidly cleared and excreted by the host; otherwise long withdrawal periods would be necessary in meat and milk producing animals. However, in certain circumstances and in certain classes of animals, drug persistence is used to prophylactic advantage.
+
+Anthelmintics should be easily administered, otherwise they will not be readily accepted by owners; different formulations are available for different domestic animal species.
+
+The cost of an anthelmintic should be reasonable. This is of special importance in pigs and poultry where profit margins may be narrow.
+
+Table 7: The major groups of anthelmintics
+
+Parasites
+
+Chemical group
+
+Drugs
+
+Nematodes
+
+Piperazines
+
+Piperazine salts, diethylcarbamazine
+
+Imidazothiazoles/tetrahydropyrimidines

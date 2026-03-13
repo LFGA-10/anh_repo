@@ -1,0 +1,54 @@
+e name double pearson’s square
+is derived.
+Assume mix 1 is CP = 12% TDN > 74%
+Assume mix 2 is CP = 12%, TDN < 74%
+Step 2:
+Use the Pearson’s square method to calculate the proportions of maize bran and CSC and their
+total TDN in mix 1 and proceed as follows:
+Mix 1, 12% CP, > 74% TDN compute TDN
+
+31
+Step 3.
+Use the Pearson’s square method to calculate the proportions of maize bran and SPV and their
+total TDN in mix 2 and proceed as follows:
+Mix 2: 12% CP, < 74% TDN Compte TDN
+Step4.
+Then solve for TDN:
+Use results in step 2 and 3 to calculate the quantity of mix 1 and 2 required to have a final blend
+of 74% TDN in mix 3.
+Mix 3 with 74% TDN
+Mix 3 is 12% CP, 74% TDN with 43.48kg of Mix 1 and 56.52 kg of Mix 2.
+Calculate the ingredient composition of the different mixes as follows:
+Corn in Mix 1 = 93.33%
+Therefore:
+Corn in Mix 1 of Mix 3 = 93.33%*43.48 = 40.58kg
+Corn in Mix 2 = 60%
+
+32
+Therefore:
+Corn in Mix 2 of Mix 3 = 60%*56.52 = 33.91
+Total corn in ration 74.49kg
+CSC in Mix 1 = 6.67%
+Therefore:
+CSC in Mix 1 of Mix 3 = 6.67%*43.48 = 2.9 kg
+SPV in Mix 2 = 40%
+Therefore:
+SPV in Mix 2 of Mix 3 = 40% x 56.52 = 22.61 kg
+Total 100.00kg
+Check for TDN
+80% X 74.49 (CORN) + 68% X 2.9 (CSC)+ 55% x22.61
+(SPV) = 74
+Check for CP
+10% X 74.49 (corn) + 40% X 2.9 (CSC) + 15% X 22.61
+(SPV) = 12
+ (Balancing ration with algebraic method)
+In this method we use simultaneous equation to solve simple diet formulation. The amount of
+ingredients in the mixture is unknown.
+Example
+Use the algebraic method to calculate a ration for piglet using fish meal and maize bran. From
+the feeding table, the protein requirement of such piglet is 20%. Fish meal contains 48% of
+protein while maize bran contains 8.9 % of protein.
+Solution
+X=% of fish meal in the mixture
+Y=% of maize bran in the mixture
+X+Y=100 (e

@@ -1,0 +1,50 @@
+[
+  {
+    "chunk_filename": "l3_qp_fodder_crops_and_pastures_management_chunk_001.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "ANHFC302",
+    "module_name": "Fodder crops and pasture management",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "past_exam",
+    "source_document": "L3 QP_ Fodder crops and pastures management.pdf",
+    "source_relpath": "ANHFC302-Fodder crops and pasture management/Past Exams/2023-2024/L3 QP_ Fodder crops and pastures management.pdf",
+    "ingested_at": "2026-03-13T08:13:48Z"
+  },
+  {
+    "chunk_filename": "l3_qp_fodder_crops_and_pastures_management_chunk_002.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "ANHFC302",
+    "module_name": "Fodder crops and pasture management",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "past_exam",
+    "source_document": "L3 QP_ Fodder crops and pastures management.pdf",
+    "source_relpath": "ANHFC302-Fodder crops and pasture management/Past Exams/2023-2024/L3 QP_ Fodder crops and pastures management.pdf",
+    "ingested_at": "2026-03-13T08:13:48Z"
+  },
+  {
+    "chunk_filename": "l3_qp_fodder_crops_and_pastures_management_chunk_003.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "ANHFC302",
+    "module_name": "Fodder crops and pasture management",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "past_exam",
+    "source_document": "L3 QP_ Fodder crops and pastures management.pdf",
+    "source_relpath": "ANHFC302-Fodder crops and pasture management/Past Exams/2023-2024/L3 QP_ Fodder crops and pastures management.pdf",
+    "ingested_at": "2026-03-13T08:13:48Z"
+  }
+]

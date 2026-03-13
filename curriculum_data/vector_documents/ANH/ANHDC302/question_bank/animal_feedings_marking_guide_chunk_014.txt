@@ -1,0 +1,46 @@
+15z = 0.12 - Substitute z = 1 - x - y: 0.10x + 0.40y + 0.15(1 - x - y) = 0.12 0.10x + 0.40y + 0.15 - 0.15x - 0.15y = 0.12 - Combine terms: (-0.05x) + 0.25y + 0.15 = 0.12 -0.05x + 0.25y = -0.03 …[Eq 1]
+
+TDN equation: 0.80x + 0.68y + 0.55z = 0.74 0.80x + 0.68y + 0.55(1 - x - y) = 0.74 0.80x + 0.68y + 0.55 - 0.55x - 0.55y = 0.74 0.25x + 0.13y + 0.55 = 0.74 0.25x + 0.13y = 0.19 …[Eq 2]
+
+Step 4: Solve for x and y From Eq 1: -0.05x + 0.25y = -0.03 ⇒ 0.25y = -0.03 + 0.05x ⇒ y = (-0.03 + 0.05x)/0.25 ⇒ y = -0.12 + 0.2x
+
+Substitute into Eq 2: 0.25x + 0.13(-0.12 + 0.2x) = 0.19 0.25x - 0.0156 + 0.026x = 0.19 0.276x - 0.0156 = 0.19 0.276x = 0.2056 x ≈ 0.7448 ≈ 0.745
+
+Then y = -0.12 + 0.2x = -0.12 + 0.2*0.7448 ≈ -0.12 + 0.14896 ≈ 0.02896 ≈ 0.029
+
+Then z = 1 - x - y = 1 - 0.745 - 0.029 ≈ 0.226
+
+Step 5: Proportions for 1 kg mix - Corn (x) ≈ 0.745 kg
+- CSC (y) ≈ 0.029 kg
+- CPV (z) ≈ 0.226 kg
+
+(b) Total Cost of 1 kg Feed Mix
+
+[ ext{Cost} = (0.745 * 250) + (0.029 * 500) + (0.226 * 150) ]
+
+Step by step:
+- Corn: 0.745 * 250 ≈ 186.25 RWF
+- CSC: 0.029 * 500 ≈ 14.5 RWF
+- CPV: 0.226 * 150 ≈ 33.9 RWF
+
+Total Cost: 186.25 + 14.5 + 33.9 ≈ 234.65 RWF/kg
+
+(c) Steps in Feed Formulation to Ensure Balanced Diet
+
+Determine Nutritional Requirements:
+
+Identify protein, energy, minerals, and vitamins required for the pig’s growth stage.
+
+List Available Feed Ingredients:
+
+Record nutritional content (%CP, %TDN, etc.) and cost of each ingredient.
+
+Select Formulation Method:
+
+Use Pearson Square for simple two-ingredient mixes or algebraic/system of equations for multiple ingredients.
+
+Calculate Proportions:
+
+Solve for each ingredient to meet target CP and TDN while considering cost-efficiency.
+
+Check Nutritional Balance:
