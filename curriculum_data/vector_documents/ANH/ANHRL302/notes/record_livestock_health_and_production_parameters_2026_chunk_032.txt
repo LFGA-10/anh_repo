@@ -1,0 +1,81 @@
+identification
+Species,
+Breeds,
+Name,
+ID,
+Age,
+Sex
+weight
+2. Types of production:
+Dairy
+Beef
+Wool
+Layer
+Bloirer
+Dual purpose
+work
+3. Physiological status:
+Newborn
+Young
+Pregnant
+Lactating
+41 | P a g e
+
+Dry
+4. Types of feed:
+Concentrate
+Roughage
+Mixed food
+5. Date of feeding
+The importance of measuring body weight is:
+Weight is very effective in assessing reproduction efficiency and growth performance
+Determine the health status of animal when measured in relation to its age
+Used for calculate correct dose of drug
+Used for calculating amount of feed for animal
+Establish value of live animal
+Help to determine the weaning time
+L.O 4.8 RECODING OF LIVESTOCK MOVEMENT IN AND OUT THE FARMS
+COMPONENTS OFLIVESTOCK MOUVEMENT RECORD FORMAT
+1. Owner identification
+Name (1st owner)
+Phone number
+District
+Sector
+Cell
+Village
+2. Animal identification
+Id Number
+Species
+Breed
+Sex
+Weight
+42 | P a g e
+
+3. Cause of movement
+Purchased
+Sold
+Dead
+Gift
+Dowry
+Born
+Cow Service Calving Lactation Service Calving
+Interval
+No. Period
+43 | P a g e
+
+Date Method Date Calf Weight Length Production Date Days Peak Date Days Days
+Dried Yield
+Sex of Dam Dry of
+at Peak
+Calving Yield
+4. Destination of the livestock Name (2st owner)
+Phone number
+District
+Sector
+Cell
+Village
+5. Date of movement
+IMPORTANT REGISTERS ON THE FARMS
+1. Reproduction and Production History Register:
+2. BREEDING REGISTER
+44 | P a g e

@@ -1,0 +1,29 @@
+Level Monitoring)
+• Purpose: Detects and measures the concentration of ammonia in the environment,
+typically caused by animal waste.
+• Use: Used in areas where high concentrations of animal waste are present (e.g., in pens or
+cages) to monitor air quality.
+• Importance: Ammonia buildup can cause respiratory problems and irritate mucous
+membranes, so it’s essential to monitor and control ammonia levels.
+8. Digital CO2 Analyzer (Carbon Dioxide Level Monitoring)
+• Purpose: Measures the concentration of carbon dioxide in the air.
+• Use: Installed in enclosed animal facilities to monitor CO2 levels, especially in rooms
+with limited ventilation.
+• Importance: High levels of CO2 can cause respiratory distress and are a sign of poor
+ventilation, necessitating monitoring to maintain air quality.
+3
+
+1.1 Bio-physical parameters in animal’s environment
+Air emission sources from animal production sites include buildings, feedlot surfaces, manure
+storage and treatment units, silage piles, dead animals, compost structures, and a variety of other
+smaller emissions sources.
+1.1.1. Farm building bio-physical parameters and standards
+It is very essential to provide appropriate conditions for rearing animals in the tropics by reducing
+the extreme effects of climate such as heat, and moisture. Good housing and layout of the farm
+can reduce stress. Environmental control improves milk production by reducing stress and disease
+hazards, also making management easier. In conjunction with a good herd health management
+program, housing can be a main determinant of productivity.
+1) Temperature
+The over-riding environmental factor affecting the physiological functions of domestic animals is
+temperature. For most farm animals a mean daily temperature in the range 10 to 20°C is referred
+to as the "co

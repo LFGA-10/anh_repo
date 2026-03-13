@@ -1,0 +1,27 @@
+commendation:
+For an aggressive bull requiring treatment:
+1. Primary approach: Well-maintained squeeze chute with head gate
+2. If procedure painful/prolonged: Add chemical restraint (NOT acepromazine)
+
+3. Backup: Rope casting with experienced team
+Justification: Squeeze chute provides immediate control without drug risks; chemical addition
+reduces stress for painful procedures; avoids acepromazine due to specific bull risk.
+53. (Creating) Zoonotic disease outbreak protocol (10 marks)
+Distribution of marks:
+• Risk assessment and PPE requirements: 2 marks
+• Sample types and collection sites: 3 marks
+• Labeling system: 2 marks
+• Transportation procedures: 2 marks
+• Biosecurity and reporting: 1 mark
+Expected answer structure:
+ZOONOTIC DISEASE OUTBREAK PROTOCOL
+1. Risk Assessment and PPE
+• Full PPE for all personnel (gloves, masks/goggles, coveralls, boots)
+• Assess suspected zoonosis (bacterial, viral, fungal)
+• Implement isolation immediately
+2. Sample Collection Requirements
+Species Sample Type Collection Site Container
+Cattle Blood Jugular/caudal vein Serum/EDTA tubes
+Cattle Nasal swab Nasal passages Viral transport medium
+Sheep Fecal Rectum Sterile container
+Sheep Blood Jugular vein Serum tubes

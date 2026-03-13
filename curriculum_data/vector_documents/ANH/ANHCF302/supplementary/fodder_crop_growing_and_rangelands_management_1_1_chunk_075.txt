@@ -1,0 +1,39 @@
+plot, from which we calculate the productivity of the whole pasture (the productivity is to say, DM/ha/year and production that is to say the production of the whole pasture).
+
+5.2.2 Carrying capacity
+
+The term “carrying capacity” is a measure of the number of animals that can be placed on a pasture reported on an average per day and throughout the year to achieve a targeted level of animal performance or economic production without causing deterioration of the pasture resource.
+
+Knowing the carrying capacity avoids therefore any wastage and overgrazing resulting in underfeeding and fast flora degradation.
+
+5.2.2.1 Carrying capacity calculation
+
+The carrying capacity can be determined using the following formula:
+
+Number of animals =
+
+The formula is completed with the following:
+
+1. Pasture size in hectares
+
+2. Pasture yield in kilograms per hectare of dry matter
+
+3. Daily intake of stocked animals
+
+4. Average animal weight in pounds for the grazing herd
+
+5. Length of the grazing season in days
+
+Example:
+
+Determine the number of 400kg cows a 50ha pasture will support for 100 days, given a pasture yield of 3,000 kg of dry matter per ha.
+
+Number of animals=
+
+Number of animals = 150
+
+5.3 Manage grazing
+
+The newly established pasture can be utilized within 2–8 months after sowing. This is only possible if proper grazing or cutting is ensured.
+
+Rotational or periodic grazing is usually recommended. However, some species may not respond to rotational grazing and this situation has to be treated cautiously. As a precaution, stocking rate should be greatly reduced or grazing totally stopped when no more than 50% of the weight of herbage has been consumed.

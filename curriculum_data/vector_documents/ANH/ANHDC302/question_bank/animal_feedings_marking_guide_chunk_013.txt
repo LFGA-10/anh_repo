@@ -1,0 +1,51 @@
+ets the nutritional requirements of 12% CP and 74% TDN. (b) Determine the total cost of the final mix for 1 kg of the feed.
+
+(c) Explain the steps feed formulation to ensure the balanced diet.
+
+ANSWER
+
+Ingredients and Nutritional Values: - Corn: 10% CP, 80% TDN, Price = 250 RWF/kg - Cowpea Seed Cake (CSC): 40% CP, 68% TDN, Price = 500 RWF/kg - Sweet Potato Vine (CPV): 15% CP, 55% TDN, Price = 150 RWF/kg
+
+Target Nutritional Requirements: - Crude Protein (CP) = 12% - Total Digestible Nutrients (TDN) = 74%
+
+(a) Calculate Required Proportions
+
+We will use the Pearson Square Method for both CP and TDN.
+
+Step 1: Crude Protein Calculation
+
+Target CP = 12%
+
+Ingredients CP: Corn = 10%, CSC = 40%
+
+      CSC (40%)
+       |\
+       | \  (difference = 40 - 12 = 28)
+Target 12% CP
+       | /  (difference = 12 - 10 = 2)
+       |/
+      Corn (10%)
+
+Amounts by difference: Corn = 28 parts, CSC = 2 parts
+
+Total = 28 + 2 = 30
+
+Proportions: Corn = 28/30 = 0.933 ≈ 93.3%, CSC = 2/30 = 0.067 ≈ 6.7%
+
+Since CPV also has 15% CP, it can be added slightly to adjust TDN. We need 74% TDN.
+
+Step 2: Total Digestible Nutrients Calculation
+
+Target TDN = 74%
+
+Ingredients TDN: Corn = 80%, CSC = 68%, CPV = 55%
+
+We will solve the system of equations using all three ingredients.
+
+Let: - x = proportion of Corn - y = proportion of CSC - z = proportion of CPV
+
+Constraints: 1. x + y + z = 1 (Total weight = 1 kg) 2. 0.10x + 0.40y + 0.15z = 0.12 (Target CP = 12%) 3. 0.80x + 0.68y + 0.55z = 0.74 (Target TDN = 74%)
+
+Step 3: Solve the system From step 2: x + y + z = 1 ⇒ z = 1 - x - y
+
+CP equation: 0.10x + 0.40y + 0.15z = 0.12 - Substitute z = 1 - x - y: 0.10x + 0.40y + 0.15(1 - x - y) = 0.12 0.10x + 0.40y + 0.15 - 0.15x - 0.15y = 0.12 - Combine terms: (-0.05x) + 0.25y + 0.15 = 0.12 -0.05x + 0.25y = -0.03 …[Eq 1]

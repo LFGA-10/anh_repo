@@ -1,0 +1,30 @@
+ion and patient information (name, address,
+age)
+2. Inscription: Main part containing names and amounts of drugs ordered
+3. Subscription: Directions for mixing ingredients and designation of drug form
+
+4. Signature: Directions to patient/owner regarding dose and timing; doctor's
+approval/signature
+PART 5: ESSAY QUESTIONS (3 × 10 Marks = 30 Marks)
+49. (Evaluating) Disease outbreak response (10 marks)
+Distribution of marks:
+• Initial assessment (biosecurity, observation): 2 marks
+• Anamnesis and history taking: 2 marks
+• Clinical examination: 2 marks
+• Sample collection and handling: 2 marks
+• Diagnosis and reporting: 1 mark
+• Justification of approach: 1 mark
+Expected answer structure:
+Step 1: Initial Assessment and Biosecurity
+• Isolate affected animals immediately
+• Implement farm biosecurity measures (footbaths, protective clothing)
+• Observe from distance before handling
+Step 2: Anamnesis
+• Collect full history from farmer
+• Number affected, onset, progression
+• Recent introductions, movements
+• Vaccination status, previous outbreaks
+Step 3: Clinical Examination
+• General examination (posture, behavior, vital signs)
+• Systematic examination of body systems
+• Identify specific clinical signs

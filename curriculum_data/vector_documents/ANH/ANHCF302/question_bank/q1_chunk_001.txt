@@ -1,0 +1,9 @@
+Q1. A farmer is preparing to make silage and needs to chop his forage.
+a) What is the recommended desirable chop length for grasses to aid compaction?
+b) List three specific objectives or advantages of chopping forages before ensiling. 
+
+Q2. A farmer notices that his silage has a dark green color, a strong smell of vinegar, and a pH level of 5.2.
+a) Based on the "Characteristics of quality of silage" table, is this considered a good silage or a bad silage?
+b) Which type of fermentation is likely dominant in this silo based on the pH level provided? (See sections
+
+Q3. A farmer has constructed a clamp silo with the following dimensions: length of 12 m, height of 2.4 m, and width of 3 m. Using the formula provided in the document, calculate the volume of this silo in cubic meters.

@@ -1,0 +1,98 @@
+{
+  "trade_id": "ANH",
+  "trade_name": "Animal Health",
+  "level_id": "L4",
+  "academic_year": "2025-2026",
+  "level_description": "TODO: brief description of Animal Health Level 4.",
+  "modules": [
+    {
+      "module_id": "ANHAP402",
+      "module_name": "Describe animal body physiology",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHET402",
+      "module_name": "Livestock extension services",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHHO401",
+      "module_name": "Hatchery operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHID402",
+      "module_name": "Infectious diseases",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHMI402",
+      "module_name": "Microorganisms Identification",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHMP401",
+      "module_name": "Milking parlor operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHNM402",
+      "module_name": "Intoxication, Nutritional and Metabolic disorders",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHPD402",
+      "module_name": "Parasitic diseases",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHPF402",
+      "module_name": "Pig Farming Operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHPO402",
+      "module_name": "Poultry farming operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    },
+    {
+      "module_id": "ANHRF402",
+      "module_name": "Rabbit Farming operations",
+      "module_description": "TODO: short summary from curriculum docs.",
+      "total_hours": 0,
+      "prerequisites": [],
+      "units": []
+    }
+  ]
+}
+

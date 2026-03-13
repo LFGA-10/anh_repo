@@ -1,0 +1,37 @@
+abendazole, Fenbendazole, Oxibendazole, Albendazole,
+Oxfenbendazole)
+✓ Pyrantel
+✓ Piperazines
+- Anticestodals (Cestocides)
+✓ Praziquantel
+✓ Epsiprantel
+- Antitrematodals (Trematocides)
+✓ Nitroxynil
+50
+
+✓ Rafoxanide
+✓ Closantel
+✓ Triclabendazole
+4.5.3 Deworming medications planning
+In Veterinary Medicine, dewormers are normally administered on a trimester basis. However, this
+period might not be respected with regard to some factors like physiological status among others.
+4.5.1.2 Antiprotozoals
+- Amprolium
+- Sulfadimethoxine
+- Metronidazole
+- Furazolidone
+- Buparvaquone
+- Imidocarb
+4.5.5 Control of protozoal infections
+Being vector borne diseases, the control of protozoal infections consist of elimination of vectors
+and intermediate hosts. But also, there are vaccines for some protozoal diseases.
+4.5.6 Prophylactic plan
+The prophylactic plan is determined by many factors such as animal species, diseases to prevent,
+geographical area amongst others. Example of prophylactic plans in different animal species is
+given on the appendix of this document.
+4.5.7 Administration routes for chemoprevention drugs
+- Per os, drenching: commonly used to administer some antihelmintic drugs. Drugs
+admistered through this route are the ones with fewer complications as far as administration
+is concerned. Therefore, farmers can easily administer drugs via this route with no
+assistance of a trained veterinary or para-veterinary officer.
+51

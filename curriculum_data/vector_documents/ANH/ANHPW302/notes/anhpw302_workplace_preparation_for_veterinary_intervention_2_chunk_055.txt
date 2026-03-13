@@ -1,0 +1,26 @@
+ps of forceps and searing spatulas are
+sterilized by holding them in Bunsen flame till they become red hot. This is a simple method for
+effective sterilization of such articles, but is limited to those articles that can be heated to redness in
+flame.
+ Infra-red rays: Infrared rays bring about sterilization by generation of heat. Articles to be sterilized are
+placed in a moving conveyer belt and passed through a tunnel that is heated by infrared radiators to a
+temperature of 180°C.
+Note: It requires special equipment, hence is not applicable in diagnostic laboratory.
+Page 52 of 61
+
+MOIST HEAT:
+ At temperature 100°C:
+Boiling water (100°C) kills most vegetative bacteria and viruses immediately. Certain bacterial toxins such as
+Staphylococcal enterotoxin are also heat resistant. Some bacterial spores are resistant to boiling and
+survive; hence this is not a substitute for sterilization. The killing activity can be enhanced by addition of 2%
+sodium bicarbonate. When absolute sterility is not required, certain metal articles and glass wares can be
+disinfected by placing them in boiling water for 10-20 minutes.
+Autoclave: Sterilization can be effectively achieved at a temperature above 100°C using an autoclave.
+Water boils at 100°C at atmospheric pressure, but if pressure is raised, the temperature at which the water
+boils also increases.
+To destroy the infective agents associated with spongiform encephalopathies (prions), higher temperatures
+or longer times are used; 135°C or 121°C for at least one hour are recommended. Advantages of steam: It
+has more penetrative power than dry air, it moistens the spores (moisture is essential for coagulation of
+proteins), condensation of steam on cooler surface releases latent heat, and condensation of steam draws
+in fresh steam.
+2. Chem

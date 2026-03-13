@@ -1,0 +1,67 @@
+A=Simple interrupted, B=Purse-string suture, C=Ligature, D=Horizontal mattress, E=Anastomotic closure, F=Simple interrupted.
+
+The good arrangement will be: 1,3,4,2.
+
+Reference: Module: Minor surgery.
+
+Learning Outcome2: Manage wound and abscess Curriculum Level 3 in Animal Health, Page 4, May 2022.
+
+Bloom Level: Evaluating.
+
+(10marks)
+
+Surgical procedures require checking vital signs prior to the identification of the underlying diseases and the success of operation. Based on the description below, analyze the statements below and highlight the type of vital sign that must be checked:
+
+It is assessed mostly by skin tenting, sunken eyes and dry mucous membranes.
+
+It helps to assess perfusion and oxygenation status which can reveal a problem of poor blood flow and shock.
+
+This vital sign measure the way Oxygen is transported within the blood.
+
+This can indicate undiagnosed diabetes or stress.
+
+The Tachycardia or bradycardia consecutive to pain, stress or heart diseases are assessed by this vital sign.
+
+Answer (with marks allocations)
+
+Hydration status
+
+Mucous membrane color and Capillary refill time.
+
+Oxygen saturation (SpO2)
+
+Blood glucose level
+
+Heart rate.
+
+Reference: Module: Major surgery.
+
+Learning Outcome1: Perform preoperative activities; Curriculum Level 5 in Animal Health, Page 3, August 2024.
+
+Bloom Level: Applying.
+
+(10marks)
+
+The effective selection of materials, tools and equipment for artificial insemination lead to the effectiveness of this operation. Answer to the following questions:
+
+Select among the following materials those find in Artificial insemination kit:
+
+Straw gun
+
+Sharp scissors
+
+Stethoscope
+
+Lubricant
+
+Vaginal speculum
+
+Disposable plastic breeding sheaths
+
+The temperature inside a semen storing tank is:
+
+-3200 F
+
+-2300 F
+
++230O F

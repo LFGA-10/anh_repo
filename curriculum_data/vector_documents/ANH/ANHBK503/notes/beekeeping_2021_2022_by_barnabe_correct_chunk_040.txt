@@ -1,0 +1,18 @@
+w queens are raised under three different circumstances: emergency,
+supersedure, or swarming.
+✓ For emergency: When an old queen is accidentally killed, lost, or removed,
+the worker bees select younger worker larvae to produce emergency queens.
+These queens are raised in worker cells modified to hang vertically on the
+comb surface.
+✓ For supersedure: When an older queen begins to fail (decreased production
+of queen substance), the colony prepares to raise a new queen. Queens
+produced as a result of supersedure are usually better than emergency
+queens since they receive larger quantities of food (royal jelly) during devel-
+opment.
+✓ For swarm: When the hive population becomes too big according to the size
+of shelter, the colony is divided into two parts.
+How to find the Queen?
+In the hive with a queen excluder we have a mechanical means quickly to find
+the queen without endangering her, and without the beekeeper being
+particularly experienced.
+School: KINAZI TVET, Trade: Animal Health, Page 36of78

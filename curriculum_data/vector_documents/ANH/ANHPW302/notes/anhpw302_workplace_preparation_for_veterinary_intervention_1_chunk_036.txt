@@ -1,0 +1,31 @@
+ht or amount of the medication provided in a specific unit of measure (the weight per tablet, capsule, milliliter, etc.).
+
+d. Form
+
+The form specifies the type of preparation available in the package.
+
+Examples of forms include tablets, capsules, liquids, suppositories, and ointments. Solutions may be indicated by milliliters (mL) and described as oral suspension or aqueous solution. Some medications are available in powder or granular form or as patches.
+
+Labels may also indicate abbreviations or words that describe the form of the medication. Examples include CR (controlled release), LA (long acting), DS (double strength), SR (sustained release), and XL (long acting).
+
+Abbreviations that describe the form of a medication indicate whether the medication has been prepared in a way that allows extended action, or slow release, of the active ingredient. Often, these medications are given less frequently.
+
+e. Route of Administration
+
+The route of administration describes how the medication is to be administered.
+
+Example:
+
+Oral, IM, IV, topical
+
+It is important to realize that on some labels the route may not be stated directly. However, unless specified otherwise, tablets, capsules, and caplets are always intended for oral use. Any form intended for oral use should be administered orally.
+
+Because all tablets, capsules, and liquids are not always given orally, read the label carefully because any variation from oral administration is indicated on the label. Examples: Sublingual tablets; otic suspension for use in ears; some capsules are placed in an inhaler and not swallowed.
+
+f. Route of Administration
+
+The route of administration describes how the medication is to be administered.
+
+Example:
+
+Oral, IM, IV, topical

@@ -1,0 +1,40 @@
+in requirement of such piglet is 20%. Fish meal contains 48% of
+protein while maize bran contains 8.9 % of protein.
+Solution
+X=% of fish meal in the mixture
+Y=% of maize bran in the mixture
+X+Y=100 (equation i)
+0.48X+0.089Y=20(equation ii)
+By using the equation (i) X=100-Y (equation iii)
+Now substitute, the value of X in the equation (ii)
+0.48(100-Y) + 0.089Y=20
+48-0.48Y+0.089Y=20
+-0.48Y+0.089Y=-48+20
+-0.441Y=-28
+Y=28/0.441
+
+33
+Y=63.5
+Using the equation (i)
+X+Y=100
+X=100-Y
+X=100-63.5
+X=36.5
+ (Mathematical programming (software)
+Ration formulation lends itself to computer programming, and most feed companies and larger
+operations now formulate on a computer. A database of available ingredients and their cost can
+be maintained in the computer, and the computer programme can then rapidly solve a whole
+series of trial and error operations to arrive at the required diet specification at minimum cost.
+There are several advantages to utilizing a computer program for ration balancing:
+ Some programs generate the nutrient requirements after entering the animal description;
+therefore, looking up nutrient requirements from a table is not required.
+ Computer programs also provide a list of feed ingredients and their nutrient composition
+to choose from.
+ Computer programs show the balance of all nutrients simultaneously. This eliminates the
+additional time involved in balancing and rechecking each individual nutrient,
+ Allows for easier balancing of rations containing several feed ingredients. Formulas are
+built into the program,
+ Mathematical mistakes are also eliminated.
+ Animals will gain more efficiently and economically with a balanced ration.
+ You should be able to balance rations that will meet the needs of most farm animals.
+NB; WITH COMPUTER PROGRAMS THE TRAINER SHO

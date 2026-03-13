@@ -1,0 +1,27 @@
+content at the current air temperature expressed in percentages.
+1.2.3. Ammonia and carbon dioxide level
+The most important components of air are nitrogen (N ) and Oxygen (O ). They represent
+2 2
+approximately 79% and 20.3% respectively. In addition to these main components there are several
+other gasses such as carbon dioxide (CO ), and water (H O).
+2 2
+To reduce ammonia emission from the animal house it is necessary to control the operation factors
+of the ventilating and heating system in order to keep the ventilation rate, indoor air temperature
+and air flow over the manure surface as low as possible. At the same time, the ventilation system
+must maintain an acceptable indoor air quality to comply with the animal welfare requirements.
+8
+
+LEARNING UNIT 2: RESTRAIN ANIMALS FOR VETERINARY INTERVENTION
+2.1 Assessment of animal behaviour
+Behaviour is any response to a stimulus. It can be any externally observable activity of an animal,
+or an internal change. The study of animal behaviour, called ethology, is a broad field,
+encompassing both instinctual and learned behaviours as well as abnormal behaviours. That study
+provides a foundation for animal training, or more generally, animal care. It also provides very
+real insights and a foundation for understanding human behaviour. Animals do share some
+behavioural characteristics with people but it can be dangerous to assume too much similarity.
+Animal behaviour is far less affected by choices reached through reasoning.
+2.1.1 Animal behaviour according to species
+Within any particular species of animal, certain behaviours may be present in all members while
+others are more specific to certain individuals, locations or situations. Even the most simple of life
+forms exhibit behavioural activity.
+✓ Birds and wasps build nests to

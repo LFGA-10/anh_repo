@@ -1,0 +1,23 @@
+, which is
+an instrument with three cups or propellers on a vertical axis. The force of the wind causes the
+cups or propellers to spin. The spinning rate is proportional to the wind speed
+23 | P a g e
+
+Wind direction is measured by a wind vane that aligns itself with the direction of the wind
+2. Ventilation
+Ventilation effectiveness can be evaluated by either measurement or simulation. In simple terms,
+the ventilation flow rate can be measured by measuring how quickly injected tracer gas is
+decayed in a room, or by measuring the air velocity through ventilation openings or air ducts, as
+well as the flow area. The airflow direction may be visualized by smoke.
+3. Stocking density
+The stocking density for each animal species is defined as the number of animals which can
+live on a specific unit area taking into account the animal species and the age and some other
+environmental factors.
+An animal's space needs are complex, and consideration of only the animal's body weight or
+surface area is insufficient.
+Vertical height, structuring of the space and enrichments can clearly affect animals' use of
+space.
+Space allocations should be reviewed and modified as necessary to address individual
+housing situations and animal needs (for example, for prenatal and postnatal care, obese
+animals, and group or individual housing).
+24 | P a g e

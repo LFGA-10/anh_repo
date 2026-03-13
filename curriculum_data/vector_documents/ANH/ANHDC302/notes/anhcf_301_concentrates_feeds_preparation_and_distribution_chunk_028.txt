@@ -1,0 +1,34 @@
+er feed
+Sow and weaner meal (for gilt, sows and
+boars)
+Pigs Pork (meat) Creep feed
+Grower feed
+Finisher feed
+ Learning Outcomes. 2.3: Calculate rations
+ CONTENT / TOPIC 1 Rations formulation methods
+
+27
+The first step in formulating a ration is to define and decide on the nutritional needs of the
+animal. Estimates of nutrients requirements for animal are available from various sources (see
+Appendix). Secondly, the feed ingredients which are available need to be listed with their
+nutrient composition (see Appendix). The next step will be the calculations of the approximate
+proportions of ingredients to meet animal requirement (ration balancing).
+Ration can be balanced or calculated by using the hand method or computer method. The hand
+calculation is also done by using:
+ Pearson square method
+ Algebraic method
+ Mathematical programming (software)
+ (Pearson square method.)
+The Pearson square or box method of balancing rations is a simple procedure that has been used
+for many years. It is of greatest value when only two ingredients are to be mixed. In taking a
+close look at the square, several numbers are in and around the square. Probably one of the more
+important numbers is the number that appears in the middle of the square. This number
+represents the nutritional requirement of an animal for a specific nutrient. It may be crude protein
+or TDN, amino acids, minerals or vitamins. Simple way to formulate a feed ration is the use of a
+Pearson Square
+In order to make the person square method works consistently, the following steps:
+Draw a square
+Put the protein content of the required feed in the centre. Put the protein content of the basal feeds
+at the top left hand corner and the bottom left corner.
+Subtract diagonally but ignore negative signs.
+The figure got on the

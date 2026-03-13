@@ -1,0 +1,72 @@
+1 mark
+•
+Correct substitution: 1 mark
+•
+Correct calculation: 2 marks
+•
+Correct units and route: 1 mark
+•
+Working:
+Volume (mL) = (Animal weight × Dose) ÷ Concentration
+= (35 kg × 0.2 mg/kg) ÷ 10 mg/mL
+
+= 7 mg ÷ 10 mg/mL
+= 0.7 mL
+Answer: 0.7 mL
+Route: Subcutaneous injection (SC) - Ivermectin is typically given
+subcutaneously in sheep.
+43. (Analyzing) Live attenuated vs killed vaccines (5 marks)
+Distribution of marks:
+Live attenuated advantages (2 points): 1 mark
+•
+Live attenuated disadvantages (2 points): 1 mark
+•
+Killed vaccine advantages (2 points): 1 mark
+•
+Killed vaccine disadvantages (2 points): 1 mark
+•
+Overall comparison quality: 1 mark
+•
+Killed (Inactivated)
+Feature Live Attenuated Vaccines
+Vaccines
+• Cannot cause disease
+• Stimulate strong cell-mediated
+(safe)
+and humoral immunity
+• Stable during storage
+Advantages • Often require only one dose
+• No risk of reversion to
+• Longer-lasting immunity
+virulence
+• Lower cost per dose
+• Safe for
+
+Killed (Inactivated)
+Feature Live Attenuated Vaccines
+Vaccines
+immunocompromised
+animals
+• Risk of reversion to virulence
+• Weaker immune response
+• Requires cold chain
+• Often require boosters
+Disadvantages • Can cause disease in
+• May require adjuvants
+immunocompromised
+• Higher cost per dose
+• Shorter shelf life
+• Newcastle Disease (LaSota
+• Rabies vaccine
+strain)
+Examples • FMD vaccine
+• Canine distemper
+• Anthrax vaccine
+• Marek's disease
+44. (Applying) Using a crush for cattle restraint (5 marks)
+Distribution of marks:
+1 mark for each correct step in proper order (5 steps × 1 mark)
+•
+Correct procedure:
+1. Approach and entry - Guide the cow calmly into the crush
+using low-stress handling techniques

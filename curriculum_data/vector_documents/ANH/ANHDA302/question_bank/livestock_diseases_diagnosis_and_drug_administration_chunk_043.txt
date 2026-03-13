@@ -1,0 +1,98 @@
+marks
+•
+Infectious Bronchitis analysis: 3 marks
+•
+Marek's Disease analysis: 3 marks
+•
+Vaccination strategy comparison: 1 mark
+•
+Expected answer structure:
+COMPARISON OF MAJOR VIRAL DISEASES OF POULTRY
+
+Infectious
+Newcastle Marek's Disease
+Feature Bronchitis
+Disease (ND) (MD)
+(IB)
+Avian
+Herpesvirus
+Causative paramyxovirus Coronavirus
+(Gallid
+Agent type 1 (APMV- (IBV)
+herpesvirus 2)
+1)
+Virus Paramyxovirida Coronavirida Alphaherpesvirina
+Family e e e
+Chickens, Chickens
+Species Chickens
+turkeys, many primarily (turkeys
+Affected only
+bird species carry)
+Respiratory, Respiratory,
+Target nervous, reproductive Lymphoid tissues,
+Organs digestive , renal nerves, viscera
+systems systems
+Incubatio 2-15 days 3-4 weeks to
+18-36 hours
+n (average 5) months
+CLINICAL SIGNS
+
+Newcastle Infectious Marek's
+Feature
+Disease Bronchitis Disease
+Sneezing,
+Sneezing,
+Respiratory tracheal rales, Usually absent
+gasping, rales
+conjunctivitis
+Torticollis,
+Nervous Paralysis (legs,
+tremors, None
+signs wings), ataxia
+paralysis
+Greenish
+Digestive diarrhea None None
+(velogenic)
+Severe drop
+Egg Drop, thin- (up to 70%),
+Variable
+production shelled eggs misshapen
+eggs
+Variable (0-
+Low (5%) Variable (up to
+100%
+Mortality unless 30% in
+depending on
+complicated unvaccinated)
+strain)
+
+Newcastle Infectious Marek's
+Feature
+Disease Bronchitis Disease
+Nerve
+Hemorrhages
+Gross enlargement,
+in None specific
+lesions lymphoid
+proventriculus
+tumors
+TRANSMISSION
+Newcastle Infectious Marek's
+Feature
+Disease Bronchitis Disease
+Aerosol, Aerosol, direct Inhalation of
+Main route
+ingestion contact dander/dust
+Respiratory Feather
+Respiratory
+Shedding discharges, follicle
+tract, feces
+feces epithelium
+Vertical
+No No No
+transmission
+Months in
+Survival in Months in
+cool Days to weeks
+environment litter/dust
+conditions

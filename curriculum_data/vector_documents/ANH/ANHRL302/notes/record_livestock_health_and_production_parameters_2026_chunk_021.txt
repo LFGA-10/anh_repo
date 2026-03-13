@@ -1,0 +1,35 @@
+ture and humidity.The CO2
+analyser measures the CO2 content of the air, the relative humidity and the room
+temperature.
+Types of environmental parameters:
+Humidity
+Environment temperature
+22 | P a g e
+
+Winds
+Rains
+Ammonia level
+Oxygen and carbon dioxide level
+Environment parameters to consider to select the area for ruminant’s shelter:
+Nature of the soil
+Temperature
+Wind direction and air supply
+Humidity
+Light
+Procedures to measure environmental parameters in livestock:
+Wind direction
+Ventilation
+Stocking density
+Humidity
+temperature
+Rainfall
+Ammonia level
+Oxygen and carbon dioxide level
+1. Wind direction
+The instruments used to measure wind are known as anemometers and can record wind speed,
+direction and the strength of gusts.
+The normal unit of wind speed is the knot (nautical mile per hour = 0.51 m sec-1 = 1.15 mph).
+The measurement of wind speed is usually done using a cup or propeller anemometer, which is
+an instrument with three cups or propellers on a vertical axis. The force of the wind causes the
+cups or propellers to spin. The spinning rate is proportional to the wind speed
+23 | P a g e

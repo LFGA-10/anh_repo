@@ -1,0 +1,50 @@
+[
+  {
+    "chunk_filename": "multiple_choice_questions_chunk_001.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "AHNRF302",
+    "module_name": "Ruminant farming",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "Multiple Choice Questions.docx",
+    "source_relpath": "AHNRF302-Ruminant farming/Question_Bank/Multiple Choice Questions.docx",
+    "ingested_at": "2026-03-13T08:12:27Z"
+  },
+  {
+    "chunk_filename": "multiple_choice_questions_chunk_002.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "AHNRF302",
+    "module_name": "Ruminant farming",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "Multiple Choice Questions.docx",
+    "source_relpath": "AHNRF302-Ruminant farming/Question_Bank/Multiple Choice Questions.docx",
+    "ingested_at": "2026-03-13T08:12:27Z"
+  },
+  {
+    "chunk_filename": "multiple_choice_questions_chunk_003.txt",
+    "trade_id": "ANH",
+    "trade_name": "Animal Health",
+    "level_id": "L3",
+    "module_id": "AHNRF302",
+    "module_name": "Ruminant farming",
+    "unit_id": null,
+    "unit_name": null,
+    "topic_id": null,
+    "topic_name": null,
+    "document_type": "question_bank",
+    "source_document": "Multiple Choice Questions.docx",
+    "source_relpath": "AHNRF302-Ruminant farming/Question_Bank/Multiple Choice Questions.docx",
+    "ingested_at": "2026-03-13T08:12:27Z"
+  }
+]

@@ -1,0 +1,38 @@
+ds and
+desired behavior physical corrections
+Teaching tricks or complex Teaching obedience or
+behaviors correcting behaviors
+Reference:
+ANH (Companion animal management) Page 14 of 17 – Marking Guides
+
+Learning Outcome 3 Train companion animals
+Curriculum Level 5 in Animal health, page 11 July 2024.
+Bloom Level: Evaluating
+Section C: Attempt only one (1) question (15 marks)
+______________________________________________________________________________
+23. (15marks)
+A veterinarian is designing a new dosage chart for different
+medications based on the weight, age, and health status of
+companion animals. For a specific medication that is dosed at
+3 mg/kg for healthy adult cats, the veterinarian needs to
+create a formula that adjusts the dose for cats of different
+health statuses. For older cats (7 years and above), the dose
+needs to be reduced by 20% due to decreased kidney function.
+For young cats (less than 1 year old), the dose should be
+increased by 15% to account for faster metabolism. If a 4 kg
+healthy adult cat is prescribed this medication,
+a. what would be the adjusted dose for an older cat
+weighing 4 kg? / 7 marks
+A) 9.6 mg
+B) 12.0 mg
+C) 15.0 mg
+D) 13.8 mg
+Answer:
+A) 9.6 mg
+Explanation: First, calculate the normal dose for a healthy
+adult cat: 4 kg×3 mg/kg=12 mg
+For an old cat, the dose needs to be reduced by 20% :
+12mg-(12*0.2)=12mg- 2.4mg= 9.6 mg
+b. Design a detailed biosecurity plan for the clinic that
+ensures minimal risk of infection. / 8marks
+ANH (Companion animal management) Page 15 of 17 – Marking Guides

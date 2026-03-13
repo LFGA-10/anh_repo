@@ -1,0 +1,27 @@
+set time has elapsed
+(forgotten) is reinforced,
+ In a variable interval schedule, the first response that is emitted after a set but variable amount of
+time has elapsed is reinforced.
+Page 75 of 134
+
+While continuous reinforcement in a fixed ratio schedule may be necessary for the initial learning stages,
+a variable ratio schedule is the most effective at maintaining behavior over long periods of time.
+There are various methods animal trainers can use to prompt an animal to respond to a stimulus in a
+specific way:
+ Shaping is a process by which successive approximations are rewarded until the desirable
+response structure is attained.
+ An animal trainer can use conditioned reinforcers, like clickers, to bridge the interval between
+response and positive reinforcement.
+ Discriminative stimuli such as signals, targets, and cues can be used to prompt a response from
+an animal, and can be changed to other stimuli or faded in magnitude.
+In order to delay satiation, reinforcer size should be as small as possible and still be effective for
+reinforcement.
+Also, the timing of the delivery of a reinforcer is crucial; initially the interval between response and
+consequence must be minimal in order for the animal to associate the consequence with the response.
+Training also may take into consideration the natural social tendencies of the animal species (or even
+breed), such as predilections for attention span, food-motivation, dominance hierarchies, aggression,
+or bonding to individuals (conspecifics as well as humans).
+Consideration must also be given to practical aspects on the human side such as the ratio of the number
+of trainers to each animal. Sometimes training is accomplished with a single trainer working individually
+with a single animal.
+ Content/Topic 1: Dogs trainin

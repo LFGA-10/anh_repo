@@ -1,0 +1,123 @@
+WA
+
+TABLE OF CONTENTS
+
+	INTRODUCTION	6
+
+	Causation of parasitic disease	6
+
+	Parasite life cycle	6
+
+	Pathogenic role of parasites	7
+
+	DESCRIPRION OF COMMON PARASITES	7
+
+	1.1 Description of helminthes	7
+
+	1.1.1 Phylum nemathelminthes (Nematodes)	7
+
+	1.1.2 Phylum plathelmintes	9
+
+	1.1.3 Phylum acanthocephala	13
+
+	1.2 DESCRIPTION OF PROTOZOA	13
+
+	1.2.1 Classification of protozoa	14
+
+	1.2.4 Piroplasmidia	16
+
+	1.3 DESCRIPTION OF ARTHROPODS	18
+
+	1.3.1 CLASS INSECTA	18
+
+	1.3.2 CLASS ARACHNIDA	23
+
+	How ticks spread disease	26
+
+	DESCRIPTION OF COMMON PARASITIC DISEASES	31
+
+	2.1. Nemathelminthiasis	31
+
+	2.1.1 Ascaridiosis	31
+
+	2.1.2 Syngamiasis	35
+
+	2.1.3 Oxyuriasis	37
+
+	2.1.4 Trichostrongylosis	38
+
+	2.1.5 Thelaziosis	39
+
+	2.1.6 Metastrongylosis of pig	40
+
+	2.1.7 Schistosomiasis	42
+
+	2.1.8 HAEMONCHOSIS	44
+
+	2.1.9 OSTERTAGIOSIS	46
+
+	2.1.10 Oesophagostomosis	49
+
+	2.1.11 Dictyocaulosis	50
+
+	2.1.12 PARAFILARIOSIS	52
+
+	2.2 PLATHELMINTIASIS	54
+
+	2.2.1 PARAMPHISTOMOSIS	54
+
+	2.2.2 FASCILOSIS	55
+
+	2.2.3 DICROCOELIOSIS	59
+
+	2.2.4 CESTODOSES	61
+
+	2.3 ACANTHOCEPHALES	70
+
+	PROTOZOA DISEASES	71
+
+	3.1 TICK-BORNE DISEASES	71
+
+	3.1.1 THEILERIOSIS (East Coast Fever)	71
+
+	3.1.2 ANAPLASMOSIS	74
+
+	3.1.3 BABESIOSIS	75
+
+	3.1.4 HEART WATER (Cowdriosis)	78
+
+	3.2 TRYPANOSOMIASIS	80
+
+	3.3 COCCIDIOSIS	82
+
+	3.4 TRICHOMONIASIS	84
+
+	3.5 TYPES OF MANGE	86
+
+	Mange in Cattle	86
+
+	3.5.1 Sarcoptic Mange (Scabies)	86
+
+	3.5.2 Psoroptic Mange	86
+
+	3.5.3 Chorioptic Mange (Leg Mange)	86
+
+	3.5.4 Demodectic Mange	87
+
+	3.5.5 Psorergatic Mange (Itch Mite)	87
+
+	3.5.6 Sarcoptic mange of pigs	87
+
+	Mange in dogs/cats	87
+
+	3.5.7 Sarcoptic Mange (Canine Scabies)	87
+
+	3.5.8 Notoedric Mange (Feline Scabies)	88
+
+	3.5.9 Otodectic Mange	88
+
+	3.5.10 Canine Demodicosis	88
+
+	DIAGNOSES FOR PARASITIC DISEASES	89
+
+	4.1 Anamnesis	89

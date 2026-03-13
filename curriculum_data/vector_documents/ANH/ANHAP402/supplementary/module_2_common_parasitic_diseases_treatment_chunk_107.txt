@@ -1,0 +1,49 @@
+can be used to provide a quantitative estimate of egg output for nematodes, cestodes and coccidia. Its use to quantify levels of infection is limited by the factors governing egg excretion.
+
+Equipment
+
+Beakers or plastic containers
+
+Balance
+
+A tea strainer or cheesecloth
+
+Measuring cylinder
+
+Stirring device (fork, tongue depressor)
+
+Pasteur pipettes and (rubber) teats
+
+Flotation fluid (see the Appendix to this handbook for formulation)
+
+McMaster counting chamber
+
+Microscope
+
+Procedure
+
+Weigh 4 g of faeces and place into Container 1.
+
+Add 56 ml of flotation fluid.
+
+Mix (stir) the contents thoroughly with a stirring device (fork, tongue blade).
+
+Filter the faecal suspension through a tea strainer or a double-layer of cheesecloth into Container 2.
+
+While stirring the filtrate in Container 2, take a sub-sample with a Pasteur pipette.
+
+Fill both sides of the McMaster counting chamber with the sub-sample.
+
+Allow the counting chamber to stand for 5 minutes (this is important)
+
+Examine the sub-sample of the filtrate under a microscope at 10 x 10 magnifications.
+
+Count all eggs and coccidia oocytes within the engraved area of both chambers.
+
+The number of eggs per gram of faeces can be calculated as follows: Add the egg counts of the two chambers together.
+
+Multiply the total by 50. This gives the e.p.g. of faeces. (Example: 12 eggs seen in chamber 1 and 15 eggs seen in chamber 2 = (12 + 15) x 50 = 1350 e.p.g.)
+
+In the event that the McMaster is negative (no eggs seen), the filtrate in Container 2 can be used for the simple flotation method (in the steps f, g and h).
+
+vi.Isolation and identification of lungworm larvae and infective larvae harvested from faecal cultures (the Baermann technique)

@@ -1,0 +1,37 @@
+. If waste is likely to present a risk due to its infectious or hazardous nature or become offensive, then it should be removed to storage as soon as possible.
+
+ EMS (Environmental Management System)
+
+Environmental and health and safety training (including first aid measures, good hygiene practices, and the use of protective clothing and equipment) are essential, as is the assignment of specific tasks and responsibilities for the management of biomedical wastes (including its segregation, collection/handling, storage, transportation, treatment, and final disposal, as well as accident, spill, and emergency response).
+
+In practice arrangements for managing clinical waste are based on categorisation of waste into groups which present different hazards.  These groups do not set out a hierarchy of the relative level of risk from the clinical waste; the actual level of risk varies within the groups.
+
+Waste group
+
+Type of clinical waste
+
+Group A
+
+Includes the following items: blood, animal carcasses
+
+Soiled surgical dressings, swabs and other similar soiled waste.
+
+Waste materials, for example from infectious disease cases, excluding any in groups B-E
+
+Group B
+
+Discarded syringe needles, broken glass and other contaminated disposable sharp instruments or items.
+
+Group C
+
+Microbiological cultures and potentially infected waste.
+
+Group D
+
+Drugs or other pharmaceutical products.
+
+Group E
+
+Items used to dispose of urine, faeces and other bodily fluid secretions or excretions, which do not fall within group A.
+
+Topic 5: Disposal techniques and methods

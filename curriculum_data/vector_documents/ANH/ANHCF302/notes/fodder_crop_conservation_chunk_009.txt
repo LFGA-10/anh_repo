@@ -1,0 +1,42 @@
+esult increase animal production and give the farmer a
+return greater than the cost of the additive
+Disadvantages of silage additives
+• Some additives are toxic and corrosive
+• Some have bad smell
+L U2: SELECT FODDER CROPS AND THEIR CONSERVATION METHODS
+2.1: IDENTIFY FODDER CROPS TO CONSERVE
+2.1.1. TYPES OF FODDER SPECIES
+✓ Legumes/Leguminous plants:
+Cajanus cajan
+Calliandra sp.
+
+Desmodium sp
+Leucaena leucocephala
+Medicago sativa
+Mucuna sp
+Trifolium repens
+✓ Grasses:
+Pennisetum purpureum
+Setaria sphacelata
+Tripsacum laxum
+Brachiaria ruziensis
+Chloris sp
+✓ Cereal plants:
+Maize
+Millet
+Oats
+Sorghum
+Wheat
+✓ Trees and shrubs
+2.2: SELECT FODDER CROPS TO CONSERVE
+✓ Growth stages: The crop should be at a phase in the growth cycle where
+vegetative growth and plant sugars are at or near their peak. This will
+ensure that important feed attributes such as protein, digestible energy,
+dry matter percentage and digestibility are at their highest potential at the
+beginning of the conservation process.
+✓ Age: the older the fodder, the low in the nutrient.
+✓ Height: this will depend on the type of fodder crop to be conserved.
+✓ Nutritional values or nutritive value: as part of food quality is the measure
+of a well-balanced ratio of the essential nutrients carbohydrates, fat,
+protein, minerals, and vitamins in items of food or diet concerning the
+nutrient requirements of their consumer (animals)

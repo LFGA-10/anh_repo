@@ -1,0 +1,56 @@
+LIVESTOCK HEALTH RECORDS
+Tips to take sick livestock animals record
+Elements of sick animal records format
+Serial number
+Owner identification
+Animal identification
+Observed clinical signs
+26 | P a g e
+
+Identification clinical sings to record:
+Temperature (Hypothermia, Hyperthermia)
+Appetite: (Pica, Bulimia, anorexia)
+Feces: (Diarhoea, Constipation, Melena,Parasites)
+Anemia coat
+Aspect of hair Lameness
+Inflammation signs
+Dropped milk
+Urine: (Hematuria, Anuria, Hemoglobinuria, Polyuria)
+Tachycardia Bradycardia
+Vomiting
+Nodules
+Hemorrhage
+Adenitis
+Emaciation
+Bloat Paralysis
+Jaundice
+INDIVIDUAL ANIMAL HEALTH RECORD
+Treatment Animal ID Condition Treatment Withdrawal Person who Cost of
+administered treatment
+Date Name Treated Given Date
+treatment
+Species (Medications,
+amount, how
+ID#
+administered)
+27 | P a g e
+
+3.2. Recording livestock morbidity Elements
+to record
+Serial number
+Owner identification
+Animal identification
+observed signs: Temperature, appetite, feces, anemia, coat, aspect of hair, lameness,
+inflammation signs, dropped milk, urine, tachycardia, bradycardia, vomiting, nodules,
+hemorrhage, adenitis, emaciation, bloat, Paralysis, Jaundice.
+3.3 RECORD LIVESTOCK MORTALITY
+Tips to record mortality in livestock animals
+Observed clinical signs
+Clinical diagnosis posed
+Attempted treatments
+Date of death
+Decided Disposal methods: Incinerated or Buried
+ELEMENTS OF LIVESTOCK MORTALITY RECORDS FORMAT
+Serial number
+Owner identification Name
+28 | P a g e
