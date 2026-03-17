@@ -16,7 +16,7 @@ class QdrantClient:
             api_key=settings.QDRANT_API_KEY,
         )
 
-    def ensure_collection(self, collection_name: str, vector_size: int = 384):
+    def ensure_collection(self, collection_name: str, vector_size: int = 1536):
         """
         Ensures a collection exists with the specified vector size (default for BGE-small).
         """

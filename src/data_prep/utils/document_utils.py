@@ -1,8 +1,8 @@
 import re
 from pathlib import Path
 from typing import List, Optional
-from fastembed import TextEmbedding
 from data_prep.utils.logger import logger
+from data_prep.services.openrouter_client import openrouter_client
 
 def extract_text(path: Path) -> str:
     ext = path.suffix.lower()
@@ -49,18 +49,12 @@ def chunk_text(text: str, max_chars: int = 1800, overlap_chars: int = 200) -> Li
         start = max(0, end - overlap_chars)
     return chunks
 
-class GhostEmbedding:
+class RemoteEmbedding:
     """
-    Local embedding generator using FastEmbed.
-    Uses 'BAAI/bge-small-en-v1.5' by default (384 dims).
+    Wrapper for inference-based embeddings via OpenRouter.
     """
-    def __init__(self, model_name: str = "BAAI/bge-small-en-v1.5"):
-        logger.info(f"Initializing embedding model: {model_name}")
-        self.model = TextEmbedding(model_name=model_name)
-
     def generate(self, texts: List[str]) -> List[List[float]]:
-        # FastEmbed returns a generator of numpy arrays
-        embeddings = list(self.model.embed(texts))
-        return [e.tolist() for e in embeddings]
+        logger.info(f"Generating embeddings for {len(texts)} chunks via OpenRouter...")
+        return openrouter_client.get_embeddings(texts)
 
-embedding_generator = GhostEmbedding()
+embedding_generator = RemoteEmbedding()

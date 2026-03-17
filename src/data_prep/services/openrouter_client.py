@@ -10,6 +10,21 @@ class OpenRouterClient:
             api_key=settings.OPEN_ROUTER_API_KEY,
         )
         self.model = settings.OPEN_ROUTER_MODEL
+        self.embed_model = "openai/text-embedding-3-small"
+
+    def get_embeddings(self, texts: list[str]) -> list[list[float]]:
+        """
+        Retrieves embeddings for a list of texts using OpenRouter.
+        """
+        try:
+            response = self.client.embeddings.create(
+                model=self.embed_model,
+                input=texts
+            )
+            return [data.embedding for data in response.data]
+        except Exception as e:
+            logger.error(f"Error during OpenRouter embedding: {e}")
+            raise
 
     def clean_curriculum_text(self, raw_text: str, module_context: str) -> dict:
         """
@@ -21,7 +36,7 @@ class OpenRouterClient:
             "\n\nRULES:\n"
             "1. DO NOT alter any educational facts, dates, or names. This is sensitive data.\n"
             "2. Fix parsing artifacts, weird characters, and formatting inconsistencies.\n"
-            "3. Identify the hierarchy: Modules -> Units -> Topics -> Subtopics.\n"
+            "3. Identify the hierarchy: Modules -> Units -> Topics -> Subtopics -> ... .\n"
             "4. Return strictly valid JSON.\n"
             f"Context: {module_context}"
         )
