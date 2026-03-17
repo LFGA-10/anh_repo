@@ -1,5 +1,0 @@
-Question1: A clamp silo has a length of 10 m, width of 6 m, and height of 4 m. What is its volume?
-
-Question2: A surface silo measures 12 m long, 5 m wide, and 3 m high. Find its volume.
-
- Question: A pit silo has a diameter of 8 m and a depth (height) of 5 m. What is its volume?
