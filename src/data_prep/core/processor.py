@@ -20,8 +20,8 @@ class CurriculumProcessor:
         context = f"Trade: {trade_name} ({trade_id}), Level: {level_id}, Module: {module_name} ({module_id})"
         structured_data = openrouter_client.clean_curriculum_text(raw_text, context)
         
-        cleaned_text = structured_data.get("cleaned_text", raw_text)
-        hierarchy = structured_data.get("hierarchy", {})
+        cleaned_text = structured_data.cleaned_text
+        hierarchy = structured_data.hierarchy
         
         # 3. Update Neo4j Graph
         neo4j_client.upsert_trade(trade_id, trade_name)
@@ -29,11 +29,14 @@ class CurriculumProcessor:
         neo4j_client.upsert_module(module_id, module_name, level_id)
         
         # Upsert Units and Topics found by LLM
-        for unit in hierarchy.get("units", []):
-            unit_id = unit.get("id") or f"{module_id}_U{unit.get('number', 'X')}"
-            unit_name = unit.get("name")
+        for unit in hierarchy.units:
+            unit_id = f"{module_id}_{unit.id}"
+            unit_name = unit.name
             neo4j_client.upsert_unit(unit_id, unit_name, module_id)
-            # Topics could be added here as well if the schema supports it
+            
+            # Here you could extend neo4j_client to support upserting topics/outcomes
+            # for topic in unit.topics:
+            #     ...
             
         # 4. Chunk & Embed Cleaned Text
         chunks = chunk_text(cleaned_text)
