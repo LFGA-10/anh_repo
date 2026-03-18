@@ -22,7 +22,13 @@ def smoke_test():
 
     # Neo4j Client
     if neo4j_client.driver:
-        logger.info("✅ Neo4j Client initialized (Driver ready)")
+        try:
+            with neo4j_client.driver.session() as session:
+                result = session.run("RETURN 1").single()
+                if result:
+                    logger.info("✅ Neo4j Connection successful (Query returned 1)")
+        except Exception as e:
+            logger.error(f"❌ Neo4j Connection failure: {e}")
     else:
         logger.warning("⚠️ Neo4j Client limited (check credentials)")
 
@@ -30,8 +36,8 @@ def smoke_test():
     if qdrant_client.client:
         try:
             logger.info("Checking Qdrant connectivity...")
-            # Try to get collections with a short timeout
-            collections = qdrant_client.client.get_collections(timeout=10)
+            # Try to get collections
+            collections = qdrant_client.client.get_collections()
             logger.info(f"✅ Qdrant Client initialized. Collections: {len(collections.collections)}")
         except Exception as e:
             logger.error(f"❌ Qdrant Connection failure: {e}")
