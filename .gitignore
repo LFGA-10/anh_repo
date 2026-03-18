@@ -1,0 +1,8 @@
+venv
+data
+processed_data
+curriculum_data
+.env*
+
+__init__.py
+__pycache__

@@ -1,69 +1,62 @@
-UWERA_AI – Curriculum Data Layer
-================================
+# UWERA AI – Curriculum Data Layer
 
-This project stores the structured data needed for the UWERA AI tutor:
+This project implements a professional data preparation pipeline for the UWERA AI tutor. It transforms raw curriculum documents into a structured graph and searchable vector chunks using cloud-based databases and LLM-powered data cleaning.
 
-- A **curriculum graph** (trades → levels → modules → units → topics → subtopics).
-- **Vector-ready text chunks** plus rich metadata for retrieval and filtering.
+## Key Features
+- **Professional Structure**: Organized as a proper Python package (`src/data_prep`).
+- **Cloud Infrastructure**: Integration with **Neo4j** (Graph) and **Qdrant** (Vector).
+- **LLM Cleaning**: Automated text cleaning and hierarchy extraction via **OpenRouter** (Claude 3.5 Sonnet).
+- **Local Embeddings**: Fast and efficient embedding generation using `FastEmbed`.
 
-The raw curriculum content and source documents live in Google Drive:
-- `https://drive.google.com/drive/folders/1T5mGrVrAdry3Rt-DIr0aUMM4Iiwrdhfo`
+## Architecture Overview
+1. **Extraction**: Raw text is extracted from PDF, DOCX, and TXT files in `data/RAW/`.
+2. **LLM Refinement**: OpenRouter cleans the text, fixing OCR artifacts and identifying Units/Topics.
+3. **Graph Population**: Curriculum hierarchy (Trade -> Level -> Module -> Unit) is synced to **Neo4j**.
+4. **Vector Storage**: Cleaned text is chunked, embedded locally, and pushed to **Qdrant** with Neo4j relationship links.
 
-## Folder structure
+## Project Structure
+```text
+src/data_prep/
+├── cli/          # Entry points (ingest.py)
+├── core/         # Orchestration logic (processor.py)
+├── services/     # Cloud clients (OpenRouter, Neo4j, Qdrant)
+└── utils/        # Document processing & Logging
+```
 
-- `curriculum_data/`
-  - `graph_structure/` – JSON describing the curriculum hierarchy.
-  - `vector_documents/` – plain-text chunks + metadata for embeddings.
+## Setup & Configuration
 
-### 1. Graph structure
+1. **Environment Variables**:
+   Create a `.env` file in the root directory:
+   ```env
+   OPEN_ROUTER_API_KEY="your_key"
+   NEO4J_URI="bolt://..."
+   NEO4J_USERNAME="neo4j"
+   NEO4J_PASSWORD="password"
+   QDRANT_URL="https://..."
+   QDRANT_API_KEY="your_key"
+   ```
 
-Each trade and level has a `summary.json` describing its hierarchy.
-Example path:
+2. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-- `curriculum_data/graph_structure/AnimalHealth/L3/summary.json`
+## Usage
 
-The JSON contains:
+Run the ingestion pipeline via the CLI:
 
-- Trade, level, academic year
-- Modules (with IDs, names, hours, prerequisites)
-- Units (with IDs, names, hours)
-- Topics and subtopics (with learning outcomes and key deliverables)
+```bash
+export PYTHONPATH=$PYTHONPATH:$(pwd)/src
+python3 -m data_prep.cli.ingest \
+    --raw_dir data/RAW/AnimalHealth/L3_curriculum \
+    --trade_id ANH \
+    --trade_name "Animal Health" \
+    --level_id L3 \
+    --module_id AHNRF302 \
+    --module_name "Ruminant farming"
+```
 
-### 2. Vector documents
-
-Each learning resource in `curriculum_data/raw/...` is automatically split into small text chunks with metadata by the ingestion script.
-
-Example generated paths (Animal Health L3):
-
-- `curriculum_data/vector_documents/ANH/AHNRF302/notes/..._chunk_001.txt`
-- `curriculum_data/vector_documents/ANH/AHNRF302/notes/..._metadata.json`
-
-Each `*_metadata.json` file contains an array of objects with:
-
-- `trade_id`, `trade_name`, `level_id`
-- `module_id`, `module_name`
-- `document_type` (`notes`, `past_exam`, `question_bank`, `supplementary`)
-- `source_document`, `source_relpath`, `ingested_at`
-- placeholders for `unit_id`, `topic_id` that can be filled later.
-
-This structure lets ingestion scripts:
-
-- Build a graph database from the `graph_structure` JSON.
-- Build a vector database from the `vector_documents` chunks and metadata.
-
-## How to run ingestion
-
-1. Put raw documents under:
-   - `curriculum_data/raw/<TradeName>/<Level>_curriculum/<MODULE_ID>-<Module Name>/<Notes|Past Exams|Question_Bank|Supplementary Materials>/`
-2. Install Python dependencies:
-   - `pip install -r requirements.txt`
-3. Run the ingestion script, e.g. for Animal Health L3:
-   - `python scripts/ingest_raw_to_vector.py --raw_root curriculum_data\raw\AnimalHealth\L3_curriculum --out_root curriculum_data\vector_documents --trade_id ANH --trade_name "Animal Health" --level_id L3`
-
-Repeat step 3 for L4 and L5 by changing `--raw_root` and `--level_id`.
-
-## Next steps
-
-1. Fill in real curriculum information (units, topics, learning outcomes) for each trade/level in the corresponding `summary.json` files.
-2. Optionally add simple mapping files so chunks can be tagged with `unit_id` / `topic_id`.
+## Maintenance
+- **Health Check**: Run `python3 src/data_prep/services/health_check.py` to verify service connectivity.
+- **Tests**: Use `pytest` for automated verification.
 
