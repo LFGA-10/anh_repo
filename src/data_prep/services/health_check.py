@@ -20,17 +20,19 @@ def smoke_test():
     except Exception as e:
         logger.error(f"❌ OpenRouter Client failure: {e}")
 
-    # Neo4j Client
-    if neo4j_client.driver:
+    # Neo4j / Local Graph Client
+    if neo4j_client.local_client:
+        logger.info("✅ Local Graph Mode active (JSON surrogate)")
+    elif neo4j_client.driver:
         try:
             with neo4j_client.driver.session() as session:
                 result = session.run("RETURN 1").single()
                 if result:
-                    logger.info("✅ Neo4j Connection successful (Query returned 1)")
+                    logger.info("✅ Neo4j Connection successful (Cloud ready)")
         except Exception as e:
             logger.error(f"❌ Neo4j Connection failure: {e}")
     else:
-        logger.warning("⚠️ Neo4j Client limited (check credentials)")
+        logger.warning("⚠️ Graph service limited (check credentials or local mode)")
 
     # Qdrant Client
     if qdrant_client.client:

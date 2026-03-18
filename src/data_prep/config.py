@@ -17,6 +17,7 @@ class Settings(BaseSettings):
     
     # App Settings
     LOG_LEVEL: str = "INFO"
+    USE_LOCAL_STORAGE: bool = True
     
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 

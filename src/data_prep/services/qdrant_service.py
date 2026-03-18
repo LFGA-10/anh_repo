@@ -6,6 +6,11 @@ import uuid
 
 class QdrantClient:
     def __init__(self):
+        if settings.USE_LOCAL_STORAGE:
+            logger.info("Using Qdrant LOCAL MODE (on-disk)")
+            self.client = QClient(path="data/qdrant_local")
+            return
+
         if not all([settings.QDRANT_URL, settings.QDRANT_API_KEY]):
             logger.warning("Qdrant credentials not fully provided. Client will not be functional.")
             self.client = None
