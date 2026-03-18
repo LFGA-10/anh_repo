@@ -1,7 +1,7 @@
 from pathlib import Path
-from data_prep.services.openrouter_client import openrouter_client
-from data_prep.services.neo4j_client import neo4j_client
-from data_prep.services.qdrant_client import qdrant_client
+from data_prep.services.openrouter_service import openrouter_client
+from data_prep.services.neo4j_service import neo4j_client
+from data_prep.services.qdrant_service import qdrant_client
 from data_prep.utils.document_utils import extract_text, chunk_text, embedding_generator
 from data_prep.utils.logger import logger
 

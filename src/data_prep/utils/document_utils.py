@@ -2,7 +2,7 @@ import re
 from pathlib import Path
 from typing import List, Optional
 from data_prep.utils.logger import logger
-from data_prep.services.openrouter_client import openrouter_client
+from data_prep.services.openrouter_service import openrouter_client
 
 def extract_text(path: Path) -> str:
     ext = path.suffix.lower()

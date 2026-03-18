@@ -1,8 +1,8 @@
 from data_prep.config import settings
 from data_prep.utils.logger import logger
-from data_prep.services.openrouter_client import openrouter_client
-from data_prep.services.neo4j_client import neo4j_client
-from data_prep.services.qdrant_client import qdrant_client
+from data_prep.services.openrouter_service import openrouter_client
+from data_prep.services.neo4j_service import neo4j_client
+from data_prep.services.qdrant_service import qdrant_client
 
 def smoke_test():
     logger.info("Starting Service Smoke Test...")
@@ -28,7 +28,13 @@ def smoke_test():
 
     # Qdrant Client
     if qdrant_client.client:
-        logger.info("✅ Qdrant Client initialized")
+        try:
+            logger.info("Checking Qdrant connectivity...")
+            # Try to get collections with a short timeout
+            collections = qdrant_client.client.get_collections(timeout=10)
+            logger.info(f"✅ Qdrant Client initialized. Collections: {len(collections.collections)}")
+        except Exception as e:
+            logger.error(f"❌ Qdrant Connection failure: {e}")
     else:
         logger.warning("⚠️ Qdrant Client limited (check credentials)")
 
